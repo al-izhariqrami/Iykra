@@ -1,0 +1,10 @@
+WITH cte AS (
+  SELECT PARSE_DATE("%Y%m%d", date) AS new_date, geoNetwork_country, SUM(totals_transactions) as total_transaction
+  FROM `data-to-insights.ecommerce.rev_transactions`
+  GROUP BY new_date, geoNetwork_country
+  ORDER BY total_transaction DESC
+)
+
+SELECT geoNetwork_country AS country, ARRAY_AGG(STRUCT(new_date, total_transaction)) AS transaction
+FROM cte
+GROUP BY country
