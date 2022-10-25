@@ -1,0 +1,1001 @@
+"id","date","age","job","marital","education","default","housing","loan","contact","month","day_of_week","duration","campaign","pdays","previous","poutcome","emp.var.rate","cons.price.idx","cons.conf.idx","euribor3m","nr.employed","y"
+27001,"28-Oct-22",42,technician,married,professional.course,no,no,no,cellular,nov,fri,21,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27002,"28-Oct-22",29,management,married,university.degree,no,no,no,cellular,nov,fri,83,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27003,"28-Oct-22",35,admin.,single,high.school,no,yes,no,cellular,nov,fri,86,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27004,"28-Oct-22",42,technician,single,professional.course,no,yes,no,cellular,nov,fri,91,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27005,"28-Oct-22",56,services,married,high.school,unknown,yes,no,cellular,nov,fri,254,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27006,"28-Oct-22",56,admin.,divorced,university.degree,no,no,no,cellular,nov,fri,149,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27007,"28-Oct-22",42,blue-collar,single,professional.course,no,no,no,cellular,nov,fri,249,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27008,"28-Oct-22",31,technician,married,university.degree,no,no,no,cellular,nov,fri,10,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27009,"28-Oct-22",51,admin.,married,university.degree,no,yes,no,cellular,nov,fri,358,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27010,"28-Oct-22",42,management,married,basic.6y,no,yes,yes,cellular,nov,fri,81,6,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27011,"28-Oct-22",57,admin.,divorced,university.degree,unknown,yes,no,cellular,nov,fri,6,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27012,"28-Oct-22",54,retired,divorced,university.degree,no,no,yes,cellular,nov,fri,138,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27013,"28-Oct-22",44,blue-collar,married,basic.6y,no,yes,no,cellular,nov,fri,275,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27014,"28-Oct-22",37,blue-collar,married,basic.9y,no,yes,yes,cellular,nov,fri,312,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27015,"28-Oct-22",45,admin.,divorced,university.degree,no,yes,yes,cellular,nov,fri,69,9,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27016,"28-Oct-22",33,admin.,married,university.degree,no,yes,no,cellular,nov,fri,37,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27017,"28-Oct-22",56,technician,married,professional.course,unknown,yes,no,cellular,nov,fri,266,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27018,"28-Oct-22",58,retired,divorced,professional.course,no,no,no,cellular,nov,fri,159,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27019,"28-Oct-22",46,admin.,single,high.school,no,yes,yes,cellular,nov,fri,116,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27020,"28-Oct-22",50,management,divorced,university.degree,no,yes,no,cellular,nov,fri,21,11,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27021,"28-Oct-22",44,admin.,married,university.degree,no,yes,no,cellular,nov,fri,358,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27022,"28-Oct-22",31,unemployed,single,basic.4y,no,yes,no,telephone,nov,fri,144,9,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27023,"28-Oct-22",32,admin.,married,university.degree,no,yes,no,telephone,nov,fri,41,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27024,"28-Oct-22",40,technician,single,university.degree,no,no,no,cellular,nov,fri,124,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27025,"28-Oct-22",43,services,single,high.school,unknown,no,no,cellular,nov,fri,298,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27026,"28-Oct-22",36,technician,single,unknown,no,no,no,cellular,nov,fri,86,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27027,"28-Oct-22",38,admin.,divorced,basic.9y,no,no,no,cellular,nov,fri,271,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27028,"28-Oct-22",41,blue-collar,single,basic.9y,unknown,yes,no,cellular,nov,fri,299,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27029,"28-Oct-22",33,admin.,single,university.degree,no,yes,no,cellular,nov,fri,152,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27030,"28-Oct-22",47,technician,married,university.degree,no,yes,no,cellular,nov,fri,322,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27031,"28-Oct-22",33,technician,single,university.degree,no,no,no,telephone,nov,fri,336,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27032,"28-Oct-22",58,admin.,married,high.school,no,yes,no,cellular,nov,fri,441,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27033,"28-Oct-22",31,admin.,married,university.degree,no,yes,no,cellular,nov,fri,149,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27034,"28-Oct-22",33,admin.,married,university.degree,no,unknown,unknown,cellular,nov,fri,675,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27035,"28-Oct-22",48,management,married,university.degree,no,yes,no,cellular,nov,fri,118,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27036,"28-Oct-22",32,admin.,single,university.degree,no,no,no,cellular,nov,fri,85,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27037,"28-Oct-22",49,management,married,university.degree,no,no,no,cellular,nov,fri,65,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27038,"28-Oct-22",45,admin.,divorced,professional.course,no,yes,no,cellular,nov,fri,239,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27039,"28-Oct-22",54,admin.,married,high.school,no,yes,no,cellular,nov,fri,267,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27040,"28-Oct-22",30,blue-collar,married,basic.9y,no,yes,no,cellular,nov,fri,225,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27041,"28-Oct-22",32,self-employed,married,university.degree,no,yes,no,cellular,nov,fri,54,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27042,"28-Oct-22",50,blue-collar,married,university.degree,unknown,no,no,cellular,nov,fri,108,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27043,"28-Oct-22",49,services,married,high.school,unknown,no,no,cellular,nov,fri,66,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27044,"28-Oct-22",57,management,married,university.degree,no,yes,no,cellular,nov,fri,108,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27045,"28-Oct-22",50,blue-collar,divorced,professional.course,no,yes,yes,cellular,nov,fri,49,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27046,"28-Oct-22",53,self-employed,married,university.degree,no,yes,no,cellular,nov,fri,1221,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27047,"28-Oct-22",38,admin.,divorced,basic.9y,no,no,no,cellular,nov,fri,71,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27048,"28-Oct-22",29,self-employed,married,university.degree,no,yes,yes,cellular,nov,fri,729,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27049,"28-Oct-22",57,management,married,university.degree,no,no,no,cellular,nov,fri,289,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27050,"28-Oct-22",58,retired,married,professional.course,no,no,no,cellular,nov,fri,127,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27051,"28-Oct-22",49,management,married,university.degree,no,yes,no,cellular,nov,fri,846,1,3,1,success,-0.1,"93.2",-42.0,"4 021",5195,no
+27052,"28-Oct-22",37,admin.,married,university.degree,no,yes,yes,cellular,nov,fri,215,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27053,"28-Oct-22",57,housemaid,married,basic.4y,no,yes,yes,cellular,nov,fri,75,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27054,"28-Oct-22",36,admin.,married,university.degree,no,yes,no,cellular,nov,fri,248,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27055,"28-Oct-22",48,management,married,university.degree,no,no,yes,cellular,nov,fri,591,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,yes
+27056,"28-Oct-22",43,admin.,single,university.degree,no,yes,no,cellular,nov,fri,163,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27057,"28-Oct-22",30,admin.,single,high.school,no,yes,no,cellular,nov,fri,337,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27058,"28-Oct-22",45,technician,divorced,basic.9y,no,no,no,cellular,nov,fri,179,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27059,"28-Oct-22",40,management,married,university.degree,no,yes,yes,cellular,nov,fri,111,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27060,"28-Oct-22",31,admin.,single,high.school,no,yes,no,cellular,nov,fri,63,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27061,"28-Oct-22",54,admin.,divorced,university.degree,unknown,no,no,cellular,nov,fri,558,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27062,"28-Oct-22",36,admin.,married,university.degree,no,no,no,cellular,nov,fri,569,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27063,"28-Oct-22",29,technician,single,university.degree,no,yes,no,cellular,nov,fri,153,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27064,"28-Oct-22",51,self-employed,married,university.degree,unknown,no,no,cellular,nov,fri,46,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27065,"28-Oct-22",48,admin.,divorced,high.school,no,no,no,cellular,nov,fri,208,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27066,"28-Oct-22",57,admin.,divorced,university.degree,unknown,no,no,cellular,nov,fri,22,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27067,"28-Oct-22",32,student,single,professional.course,no,yes,yes,cellular,nov,fri,261,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27068,"28-Oct-22",58,retired,married,professional.course,unknown,no,no,cellular,nov,fri,120,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27069,"28-Oct-22",34,admin.,married,university.degree,no,unknown,unknown,cellular,nov,fri,253,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27070,"28-Oct-22",29,services,single,high.school,no,yes,no,cellular,nov,fri,43,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27071,"28-Oct-22",38,admin.,divorced,high.school,no,yes,no,cellular,nov,fri,321,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27072,"28-Oct-22",44,management,single,university.degree,unknown,yes,yes,cellular,nov,fri,46,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27073,"28-Oct-22",29,services,single,high.school,no,yes,no,cellular,nov,fri,104,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27074,"28-Oct-22",37,services,married,high.school,no,yes,no,cellular,nov,fri,63,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27075,"28-Oct-22",42,technician,married,university.degree,no,yes,no,telephone,nov,fri,81,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27076,"28-Oct-22",30,blue-collar,married,basic.9y,no,yes,no,cellular,nov,fri,423,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27077,"28-Oct-22",55,technician,married,professional.course,no,no,no,cellular,nov,fri,113,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27078,"28-Oct-22",56,technician,married,professional.course,no,yes,no,cellular,nov,fri,71,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27079,"28-Oct-22",55,technician,married,professional.course,no,no,no,cellular,nov,fri,348,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27080,"28-Oct-22",43,services,single,high.school,unknown,no,no,cellular,nov,fri,62,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27081,"28-Oct-22",31,blue-collar,married,basic.6y,no,no,no,cellular,nov,fri,588,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27082,"28-Oct-22",53,self-employed,married,university.degree,no,yes,no,cellular,nov,fri,528,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27083,"28-Oct-22",34,admin.,married,university.degree,no,no,no,cellular,nov,fri,467,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27084,"28-Oct-22",29,technician,single,professional.course,no,no,no,cellular,nov,fri,530,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,yes
+27085,"28-Oct-22",45,technician,married,professional.course,no,yes,no,cellular,nov,fri,76,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27086,"28-Oct-22",30,services,single,high.school,no,no,no,cellular,nov,fri,648,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27087,"28-Oct-22",36,technician,single,unknown,no,no,no,cellular,nov,fri,158,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27088,"28-Oct-22",47,self-employed,married,basic.9y,unknown,yes,no,cellular,nov,fri,258,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27089,"28-Oct-22",37,admin.,married,professional.course,no,no,no,cellular,nov,fri,73,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27090,"28-Oct-22",45,admin.,divorced,high.school,no,no,yes,cellular,nov,fri,567,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27091,"28-Oct-22",30,services,single,university.degree,no,yes,no,cellular,nov,fri,13,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27092,"28-Oct-22",34,management,married,university.degree,no,yes,no,cellular,nov,fri,470,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27093,"28-Oct-22",53,entrepreneur,married,basic.6y,no,yes,no,telephone,nov,fri,228,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27094,"28-Oct-22",45,management,married,university.degree,no,yes,yes,cellular,nov,fri,22,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27095,"28-Oct-22",48,blue-collar,married,professional.course,no,yes,yes,cellular,nov,fri,91,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27096,"28-Oct-22",49,technician,married,basic.4y,no,yes,no,cellular,nov,fri,345,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27097,"28-Oct-22",29,admin.,single,professional.course,no,no,no,telephone,nov,fri,346,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27098,"28-Oct-22",47,management,married,university.degree,no,no,no,cellular,nov,fri,107,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27099,"28-Oct-22",32,technician,single,professional.course,no,yes,no,cellular,nov,fri,86,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27100,"28-Oct-22",33,technician,single,university.degree,no,yes,yes,cellular,nov,fri,710,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27101,"28-Oct-22",58,admin.,married,university.degree,unknown,no,no,cellular,nov,fri,110,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27102,"28-Oct-22",35,admin.,single,university.degree,no,yes,no,cellular,nov,fri,530,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27103,"28-Oct-22",39,admin.,single,unknown,no,no,no,cellular,nov,fri,73,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27104,"28-Oct-22",35,admin.,single,university.degree,no,yes,yes,cellular,nov,fri,529,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27105,"28-Oct-22",37,technician,divorced,high.school,no,no,no,cellular,nov,fri,635,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,yes
+27106,"28-Oct-22",36,technician,single,unknown,no,yes,no,cellular,nov,fri,254,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27107,"28-Oct-22",47,self-employed,married,basic.9y,unknown,yes,no,cellular,nov,fri,106,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27108,"28-Oct-22",43,management,single,high.school,no,no,no,cellular,nov,fri,40,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27109,"28-Oct-22",42,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,195,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27110,"28-Oct-22",50,management,divorced,university.degree,no,yes,no,cellular,nov,fri,183,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27111,"28-Oct-22",39,admin.,single,university.degree,no,yes,yes,cellular,nov,fri,195,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27112,"28-Oct-22",55,admin.,married,high.school,no,yes,no,cellular,nov,fri,585,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27113,"28-Oct-22",42,admin.,married,university.degree,no,no,no,cellular,nov,fri,501,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27114,"28-Oct-22",30,admin.,single,university.degree,no,yes,no,cellular,nov,fri,222,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27115,"28-Oct-22",52,admin.,married,university.degree,unknown,yes,no,cellular,nov,fri,131,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27116,"28-Oct-22",43,services,married,basic.6y,no,yes,no,cellular,nov,fri,158,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27117,"28-Oct-22",29,technician,single,professional.course,no,yes,yes,cellular,nov,fri,215,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27118,"28-Oct-22",31,unemployed,single,university.degree,no,yes,no,cellular,nov,fri,30,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27119,"28-Oct-22",48,blue-collar,married,basic.4y,unknown,yes,yes,cellular,nov,fri,53,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27120,"28-Oct-22",35,admin.,divorced,university.degree,no,no,no,cellular,nov,fri,263,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27121,"28-Oct-22",48,blue-collar,married,professional.course,no,no,yes,cellular,nov,fri,344,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27122,"28-Oct-22",45,technician,married,basic.9y,unknown,no,no,cellular,nov,fri,174,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27123,"28-Oct-22",48,blue-collar,married,basic.4y,unknown,no,yes,cellular,nov,fri,103,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27124,"28-Oct-22",44,services,married,high.school,unknown,yes,no,cellular,nov,fri,46,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27125,"28-Oct-22",43,admin.,divorced,high.school,no,no,yes,cellular,nov,fri,74,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27126,"28-Oct-22",47,blue-collar,married,basic.4y,unknown,no,yes,cellular,nov,fri,105,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27127,"28-Oct-22",29,technician,single,high.school,no,yes,yes,cellular,nov,fri,206,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27128,"28-Oct-22",40,management,married,university.degree,no,no,no,cellular,nov,fri,132,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27129,"28-Oct-22",40,management,married,university.degree,no,yes,no,cellular,nov,fri,175,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27130,"28-Oct-22",29,admin.,married,high.school,no,yes,no,cellular,nov,fri,140,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27131,"28-Oct-22",55,admin.,married,high.school,no,no,no,cellular,nov,fri,148,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27132,"28-Oct-22",45,blue-collar,married,basic.9y,no,yes,no,cellular,nov,fri,66,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27133,"28-Oct-22",52,admin.,married,university.degree,unknown,yes,no,cellular,nov,fri,32,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27134,"28-Oct-22",43,management,single,high.school,no,yes,no,cellular,nov,fri,149,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27135,"28-Oct-22",29,entrepreneur,married,high.school,no,yes,no,cellular,nov,fri,1166,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27136,"28-Oct-22",40,management,married,university.degree,no,yes,no,cellular,nov,fri,161,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27137,"28-Oct-22",32,admin.,married,university.degree,no,yes,no,cellular,nov,fri,262,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27138,"28-Oct-22",33,blue-collar,single,basic.4y,no,no,no,cellular,nov,fri,60,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27139,"28-Oct-22",31,admin.,single,high.school,no,yes,no,cellular,nov,fri,106,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27140,"28-Oct-22",57,unemployed,married,university.degree,no,yes,yes,cellular,nov,fri,59,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27141,"28-Oct-22",38,blue-collar,married,basic.6y,unknown,yes,no,cellular,nov,fri,1055,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27142,"28-Oct-22",57,admin.,married,university.degree,no,yes,no,cellular,nov,fri,181,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27143,"28-Oct-22",48,admin.,married,university.degree,no,no,no,cellular,nov,fri,218,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27144,"28-Oct-22",34,entrepreneur,married,high.school,no,no,yes,cellular,nov,fri,429,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27145,"28-Oct-22",32,technician,single,university.degree,no,yes,no,cellular,nov,fri,327,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27146,"28-Oct-22",57,housemaid,married,basic.4y,no,no,no,cellular,nov,fri,216,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27147,"28-Oct-22",45,technician,single,university.degree,no,yes,no,cellular,nov,fri,201,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27148,"28-Oct-22",50,blue-collar,divorced,professional.course,no,yes,no,cellular,nov,fri,102,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27149,"28-Oct-22",52,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,65,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27150,"28-Oct-22",42,entrepreneur,married,university.degree,no,yes,no,cellular,nov,fri,58,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27151,"28-Oct-22",30,admin.,married,university.degree,no,no,no,cellular,nov,fri,221,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27152,"28-Oct-22",40,management,married,university.degree,no,yes,yes,cellular,nov,fri,957,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,yes
+27153,"28-Oct-22",38,blue-collar,single,basic.6y,no,yes,yes,cellular,nov,fri,202,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27154,"28-Oct-22",34,admin.,divorced,university.degree,no,no,no,cellular,nov,fri,161,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27155,"28-Oct-22",50,technician,married,basic.9y,no,no,no,cellular,nov,fri,705,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27156,"28-Oct-22",51,technician,married,high.school,no,yes,no,cellular,nov,fri,167,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27157,"28-Oct-22",49,admin.,married,unknown,no,yes,no,telephone,nov,fri,29,9,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27158,"28-Oct-22",44,self-employed,married,university.degree,no,no,no,cellular,nov,fri,89,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27159,"28-Oct-22",38,services,married,high.school,no,yes,no,cellular,nov,fri,306,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27160,"28-Oct-22",57,management,divorced,professional.course,no,yes,no,cellular,nov,fri,56,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27161,"28-Oct-22",46,technician,divorced,university.degree,no,yes,no,cellular,nov,fri,796,5,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,yes
+27162,"28-Oct-22",36,services,married,basic.6y,unknown,no,no,cellular,nov,fri,1022,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27163,"28-Oct-22",36,admin.,married,university.degree,no,yes,no,cellular,nov,fri,189,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27164,"28-Oct-22",40,blue-collar,divorced,basic.9y,no,no,no,cellular,nov,fri,74,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27165,"28-Oct-22",40,blue-collar,divorced,basic.9y,no,no,no,cellular,nov,fri,154,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27166,"28-Oct-22",31,admin.,single,high.school,no,no,no,cellular,nov,fri,89,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27167,"28-Oct-22",34,management,single,university.degree,no,yes,no,cellular,nov,fri,79,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27168,"28-Oct-22",55,admin.,single,university.degree,unknown,no,yes,cellular,nov,fri,143,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27169,"28-Oct-22",50,admin.,married,university.degree,no,yes,no,cellular,nov,fri,169,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27170,"28-Oct-22",53,unemployed,married,basic.4y,no,yes,no,cellular,nov,fri,80,10,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27171,"28-Oct-22",52,technician,married,basic.9y,no,yes,no,cellular,nov,fri,44,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27172,"28-Oct-22",42,management,married,basic.6y,no,no,no,cellular,nov,fri,133,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27173,"28-Oct-22",50,technician,divorced,university.degree,no,yes,no,telephone,nov,fri,49,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27174,"28-Oct-22",40,blue-collar,divorced,basic.9y,no,no,no,cellular,nov,fri,586,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27175,"28-Oct-22",57,admin.,divorced,university.degree,unknown,no,no,cellular,nov,fri,189,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27176,"28-Oct-22",51,technician,single,basic.9y,no,yes,no,telephone,nov,fri,218,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27177,"28-Oct-22",44,admin.,married,university.degree,no,yes,no,cellular,nov,fri,235,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27178,"28-Oct-22",57,housemaid,married,basic.4y,no,yes,no,cellular,nov,fri,105,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27179,"28-Oct-22",57,management,divorced,professional.course,no,yes,no,cellular,nov,fri,849,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27180,"28-Oct-22",50,blue-collar,married,basic.9y,no,yes,yes,cellular,nov,fri,5,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27181,"28-Oct-22",49,blue-collar,married,basic.9y,no,yes,no,cellular,nov,fri,271,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27182,"28-Oct-22",40,blue-collar,divorced,basic.9y,no,yes,no,cellular,nov,fri,893,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27183,"28-Oct-22",36,entrepreneur,divorced,high.school,no,yes,no,cellular,nov,fri,230,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27184,"28-Oct-22",37,blue-collar,married,basic.6y,no,no,no,cellular,nov,fri,68,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27185,"28-Oct-22",32,admin.,single,university.degree,no,yes,yes,cellular,nov,fri,74,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27186,"28-Oct-22",31,unemployed,single,basic.4y,no,yes,yes,cellular,nov,fri,115,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27187,"28-Oct-22",29,entrepreneur,single,basic.4y,no,no,no,cellular,nov,fri,100,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27188,"28-Oct-22",54,technician,married,high.school,unknown,yes,no,cellular,nov,fri,326,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27189,"28-Oct-22",40,blue-collar,divorced,basic.9y,no,yes,no,cellular,nov,fri,1182,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27190,"28-Oct-22",44,housemaid,married,high.school,no,no,no,cellular,nov,fri,144,6,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27191,"28-Oct-22",50,admin.,married,university.degree,no,yes,yes,cellular,nov,fri,189,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27192,"28-Oct-22",39,self-employed,single,high.school,no,yes,no,cellular,nov,fri,169,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27193,"28-Oct-22",45,services,single,high.school,unknown,yes,no,cellular,nov,fri,670,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27194,"28-Oct-22",57,blue-collar,married,basic.9y,unknown,yes,no,cellular,nov,fri,57,7,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27195,"28-Oct-22",44,services,married,high.school,unknown,yes,no,telephone,nov,fri,76,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27196,"28-Oct-22",57,technician,married,professional.course,no,yes,no,cellular,nov,fri,42,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27197,"28-Oct-22",46,admin.,married,university.degree,no,yes,no,cellular,nov,fri,81,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27198,"28-Oct-22",41,admin.,divorced,high.school,no,yes,no,cellular,nov,fri,199,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27199,"28-Oct-22",31,unemployed,single,basic.4y,no,no,no,cellular,nov,fri,184,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27200,"28-Oct-22",54,retired,married,basic.4y,no,no,no,cellular,nov,fri,18,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27201,"28-Oct-22",33,blue-collar,single,basic.4y,no,yes,no,cellular,nov,fri,451,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27202,"28-Oct-22",52,retired,married,university.degree,no,no,no,cellular,nov,fri,51,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27203,"28-Oct-22",50,technician,married,university.degree,unknown,yes,yes,cellular,nov,fri,63,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27204,"28-Oct-22",46,admin.,married,university.degree,no,yes,no,cellular,nov,fri,70,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27205,"28-Oct-22",57,housemaid,married,basic.4y,no,no,no,cellular,nov,fri,44,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27206,"28-Oct-22",55,technician,single,professional.course,no,yes,yes,telephone,nov,fri,54,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27207,"28-Oct-22",37,management,married,university.degree,no,yes,no,cellular,nov,fri,13,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27208,"28-Oct-22",40,management,married,university.degree,no,yes,no,cellular,nov,fri,401,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27209,"28-Oct-22",29,technician,single,high.school,no,yes,yes,cellular,nov,fri,484,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27210,"28-Oct-22",31,admin.,single,high.school,no,yes,no,cellular,nov,fri,59,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27211,"28-Oct-22",33,technician,single,university.degree,no,no,no,cellular,nov,fri,64,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27212,"28-Oct-22",34,technician,divorced,university.degree,no,yes,no,cellular,nov,fri,526,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27213,"28-Oct-22",40,management,married,high.school,no,no,yes,cellular,nov,fri,105,5,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27214,"28-Oct-22",34,admin.,married,university.degree,no,no,no,cellular,nov,fri,128,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27215,"28-Oct-22",52,unemployed,married,university.degree,no,no,no,cellular,nov,fri,115,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27216,"28-Oct-22",31,unemployed,single,basic.4y,no,no,yes,cellular,nov,fri,573,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27217,"28-Oct-22",46,management,married,basic.9y,no,yes,no,cellular,nov,fri,996,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27218,"28-Oct-22",50,admin.,married,university.degree,no,no,no,cellular,nov,fri,206,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27219,"28-Oct-22",41,technician,married,university.degree,no,yes,yes,cellular,nov,fri,135,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27220,"28-Oct-22",31,admin.,single,university.degree,no,yes,no,telephone,nov,fri,36,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27221,"28-Oct-22",29,technician,single,professional.course,no,no,no,cellular,nov,fri,1480,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27222,"28-Oct-22",52,services,married,basic.9y,unknown,yes,no,cellular,nov,fri,160,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27223,"28-Oct-22",31,services,single,university.degree,unknown,unknown,unknown,cellular,nov,fri,83,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27224,"28-Oct-22",32,admin.,divorced,university.degree,no,no,no,telephone,nov,fri,425,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27225,"28-Oct-22",51,management,married,university.degree,no,yes,no,telephone,nov,fri,288,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27226,"28-Oct-22",31,technician,single,university.degree,no,yes,yes,cellular,nov,fri,244,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27227,"28-Oct-22",49,technician,married,basic.4y,no,no,no,cellular,nov,fri,378,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27228,"28-Oct-22",55,entrepreneur,married,university.degree,no,no,no,cellular,nov,fri,252,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27229,"28-Oct-22",57,management,married,university.degree,no,yes,yes,cellular,nov,fri,283,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27230,"28-Oct-22",49,self-employed,married,university.degree,unknown,yes,no,cellular,nov,fri,110,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27231,"28-Oct-22",57,management,married,university.degree,no,yes,no,telephone,nov,fri,109,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27232,"28-Oct-22",48,admin.,married,high.school,no,yes,no,cellular,nov,fri,162,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27233,"28-Oct-22",40,blue-collar,married,high.school,no,yes,no,cellular,nov,fri,144,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27234,"28-Oct-22",33,admin.,single,university.degree,no,no,no,telephone,nov,fri,49,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27235,"28-Oct-22",58,admin.,married,university.degree,no,no,no,cellular,nov,fri,70,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27236,"28-Oct-22",40,admin.,married,university.degree,no,no,no,cellular,nov,fri,71,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27237,"28-Oct-22",34,technician,divorced,university.degree,no,no,no,cellular,nov,fri,316,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27238,"28-Oct-22",31,admin.,single,high.school,no,yes,no,cellular,nov,fri,306,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27239,"28-Oct-22",36,blue-collar,single,basic.9y,no,yes,yes,cellular,nov,fri,70,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27240,"28-Oct-22",52,entrepreneur,married,university.degree,no,yes,yes,cellular,nov,fri,221,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27241,"28-Oct-22",40,technician,single,university.degree,no,yes,yes,cellular,nov,fri,44,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27242,"28-Oct-22",50,management,divorced,university.degree,no,no,no,cellular,nov,fri,202,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27243,"28-Oct-22",53,blue-collar,married,basic.4y,unknown,yes,yes,cellular,nov,fri,98,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27244,"28-Oct-22",39,services,married,high.school,no,yes,no,cellular,nov,fri,552,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27245,"28-Oct-22",37,management,married,university.degree,no,yes,no,telephone,nov,fri,97,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27246,"28-Oct-22",57,unemployed,married,university.degree,no,yes,no,cellular,nov,fri,48,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27247,"28-Oct-22",48,admin.,married,university.degree,no,yes,yes,cellular,nov,fri,89,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27248,"28-Oct-22",29,services,single,high.school,no,yes,no,cellular,nov,fri,171,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27249,"28-Oct-22",47,technician,married,university.degree,no,no,no,cellular,nov,fri,744,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27250,"28-Oct-22",57,unemployed,married,university.degree,no,yes,yes,cellular,nov,fri,79,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27251,"28-Oct-22",58,admin.,married,university.degree,no,no,no,cellular,nov,fri,850,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27252,"28-Oct-22",48,admin.,married,university.degree,no,no,no,cellular,nov,fri,233,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27253,"28-Oct-22",50,admin.,divorced,university.degree,no,yes,no,telephone,nov,fri,70,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27254,"28-Oct-22",57,management,divorced,university.degree,no,unknown,unknown,telephone,nov,fri,162,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27255,"28-Oct-22",29,technician,single,professional.course,no,yes,no,cellular,nov,fri,38,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27256,"28-Oct-22",32,management,married,university.degree,no,no,no,cellular,nov,fri,8,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27257,"28-Oct-22",37,entrepreneur,married,professional.course,no,no,no,cellular,nov,fri,18,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27258,"28-Oct-22",56,services,married,high.school,unknown,yes,no,cellular,nov,fri,72,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27259,"28-Oct-22",45,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,164,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27260,"28-Oct-22",52,technician,divorced,university.degree,unknown,no,no,cellular,nov,fri,123,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27261,"28-Oct-22",50,technician,married,university.degree,no,yes,no,cellular,nov,fri,100,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27262,"28-Oct-22",45,self-employed,married,university.degree,no,no,no,cellular,nov,fri,18,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27263,"28-Oct-22",52,admin.,married,high.school,no,no,no,cellular,nov,fri,165,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27264,"28-Oct-22",54,retired,divorced,university.degree,no,no,no,cellular,nov,fri,296,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27265,"28-Oct-22",37,admin.,married,unknown,no,yes,yes,cellular,nov,fri,196,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27266,"28-Oct-22",33,self-employed,single,university.degree,no,yes,yes,cellular,nov,fri,203,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27267,"28-Oct-22",34,admin.,married,university.degree,no,yes,no,telephone,nov,fri,55,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27268,"28-Oct-22",38,blue-collar,married,basic.9y,no,yes,yes,cellular,nov,fri,186,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27269,"28-Oct-22",32,admin.,single,university.degree,no,unknown,unknown,cellular,nov,fri,59,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27270,"28-Oct-22",55,retired,married,high.school,no,no,no,cellular,nov,fri,532,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27271,"28-Oct-22",38,management,married,university.degree,no,no,yes,cellular,nov,fri,79,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27272,"28-Oct-22",52,technician,married,basic.9y,no,yes,yes,cellular,nov,fri,197,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27273,"28-Oct-22",32,entrepreneur,single,basic.9y,no,no,no,cellular,nov,fri,84,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27274,"28-Oct-22",49,blue-collar,married,basic.9y,no,yes,no,cellular,nov,fri,35,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27275,"28-Oct-22",30,admin.,single,university.degree,no,yes,yes,telephone,nov,fri,26,10,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27276,"28-Oct-22",52,technician,married,basic.9y,no,yes,no,cellular,nov,fri,102,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27277,"28-Oct-22",31,admin.,single,high.school,no,no,no,cellular,nov,fri,100,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27278,"28-Oct-22",49,admin.,married,high.school,no,yes,no,cellular,nov,fri,164,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27279,"28-Oct-22",47,technician,married,high.school,unknown,yes,no,cellular,nov,fri,183,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27280,"28-Oct-22",32,technician,single,professional.course,no,yes,no,cellular,nov,fri,67,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27281,"28-Oct-22",53,blue-collar,married,basic.4y,no,yes,no,cellular,nov,fri,180,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27282,"28-Oct-22",50,admin.,married,high.school,no,yes,no,telephone,nov,fri,182,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27283,"28-Oct-22",39,technician,married,high.school,no,no,no,cellular,nov,fri,749,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27284,"28-Oct-22",37,admin.,married,university.degree,no,yes,no,cellular,nov,fri,450,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27285,"28-Oct-22",58,retired,married,professional.course,unknown,no,no,telephone,nov,fri,28,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27286,"28-Oct-22",57,housemaid,married,basic.4y,no,yes,no,cellular,nov,fri,66,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27287,"28-Oct-22",44,blue-collar,married,basic.6y,no,yes,yes,cellular,nov,fri,119,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27288,"28-Oct-22",44,admin.,married,university.degree,no,no,no,cellular,nov,fri,135,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27289,"28-Oct-22",42,admin.,married,university.degree,no,no,yes,cellular,nov,fri,902,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27290,"28-Oct-22",41,housemaid,married,high.school,no,yes,no,telephone,nov,fri,1074,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27291,"28-Oct-22",37,admin.,single,university.degree,no,yes,yes,cellular,nov,fri,661,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27292,"28-Oct-22",44,self-employed,divorced,professional.course,no,yes,no,cellular,nov,fri,492,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27293,"28-Oct-22",55,admin.,married,unknown,unknown,no,no,cellular,nov,fri,142,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27294,"28-Oct-22",43,admin.,single,university.degree,no,yes,no,telephone,nov,fri,43,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27295,"28-Oct-22",51,housemaid,married,high.school,no,no,no,cellular,nov,fri,28,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27296,"28-Oct-22",33,admin.,married,university.degree,no,yes,no,cellular,nov,fri,82,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27297,"28-Oct-22",36,blue-collar,married,basic.9y,no,yes,no,cellular,nov,fri,63,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27298,"28-Oct-22",31,admin.,single,university.degree,no,no,no,cellular,nov,fri,264,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27299,"28-Oct-22",49,blue-collar,married,basic.6y,no,yes,no,cellular,nov,fri,118,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27300,"28-Oct-22",34,admin.,married,university.degree,no,no,no,cellular,nov,fri,124,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27301,"28-Oct-22",42,admin.,married,high.school,no,no,no,cellular,nov,fri,218,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27302,"28-Oct-22",29,student,single,professional.course,no,no,no,telephone,nov,fri,232,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27303,"28-Oct-22",29,admin.,single,university.degree,no,yes,no,cellular,nov,fri,190,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27304,"28-Oct-22",52,technician,married,basic.9y,no,no,no,cellular,nov,fri,10,7,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27305,"28-Oct-22",48,blue-collar,divorced,basic.4y,no,yes,no,cellular,nov,fri,456,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27306,"28-Oct-22",56,admin.,divorced,high.school,no,yes,no,cellular,nov,fri,176,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27307,"28-Oct-22",51,blue-collar,married,basic.9y,unknown,yes,no,cellular,nov,fri,312,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27308,"28-Oct-22",41,admin.,single,university.degree,no,yes,yes,cellular,nov,fri,45,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27309,"28-Oct-22",37,admin.,married,university.degree,no,yes,no,cellular,nov,fri,124,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27310,"28-Oct-22",55,technician,single,professional.course,no,yes,no,cellular,nov,fri,42,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27311,"28-Oct-22",58,admin.,divorced,university.degree,no,no,no,cellular,nov,fri,189,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27312,"28-Oct-22",51,self-employed,married,university.degree,unknown,unknown,unknown,cellular,nov,fri,31,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27313,"28-Oct-22",45,blue-collar,married,basic.9y,no,no,no,cellular,nov,fri,126,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27314,"28-Oct-22",31,services,single,basic.9y,unknown,yes,no,cellular,nov,fri,232,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27315,"28-Oct-22",44,blue-collar,married,basic.6y,no,yes,no,cellular,nov,fri,11,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27316,"28-Oct-22",56,unemployed,divorced,high.school,unknown,yes,no,cellular,nov,fri,109,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27317,"28-Oct-22",52,technician,married,professional.course,no,yes,no,cellular,nov,fri,64,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27318,"28-Oct-22",35,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,28,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27319,"28-Oct-22",48,technician,married,professional.course,no,yes,yes,cellular,nov,fri,148,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27320,"28-Oct-22",32,management,married,university.degree,no,yes,no,cellular,nov,fri,104,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27321,"28-Oct-22",57,admin.,divorced,university.degree,unknown,yes,yes,cellular,nov,fri,65,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27322,"28-Oct-22",45,admin.,divorced,high.school,no,yes,no,cellular,nov,fri,980,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27323,"28-Oct-22",39,admin.,single,high.school,no,unknown,unknown,cellular,nov,fri,206,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27324,"28-Oct-22",54,technician,married,high.school,unknown,yes,no,cellular,nov,fri,82,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27325,"28-Oct-22",47,admin.,married,university.degree,no,yes,no,cellular,nov,fri,45,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27326,"28-Oct-22",31,services,married,high.school,no,yes,no,telephone,nov,fri,62,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27327,"28-Oct-22",48,services,married,professional.course,no,no,no,cellular,nov,fri,10,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27328,"28-Oct-22",55,admin.,single,university.degree,unknown,yes,no,cellular,nov,fri,16,9,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27329,"28-Oct-22",35,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,102,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27330,"28-Oct-22",54,admin.,married,university.degree,unknown,no,no,cellular,nov,fri,298,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27331,"28-Oct-22",40,technician,married,university.degree,no,no,no,cellular,nov,fri,52,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27332,"28-Oct-22",38,blue-collar,married,basic.6y,unknown,yes,yes,cellular,nov,fri,213,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27333,"28-Oct-22",35,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,226,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27334,"28-Oct-22",40,blue-collar,divorced,basic.4y,no,yes,no,cellular,nov,fri,58,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27335,"28-Oct-22",37,blue-collar,married,basic.9y,no,yes,no,cellular,nov,fri,224,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27336,"28-Oct-22",55,entrepreneur,divorced,university.degree,no,no,no,cellular,nov,fri,48,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27337,"28-Oct-22",35,management,married,university.degree,no,no,no,cellular,nov,fri,207,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27338,"28-Oct-22",39,services,divorced,unknown,no,yes,no,cellular,nov,fri,163,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27339,"28-Oct-22",29,admin.,single,university.degree,no,yes,no,cellular,nov,fri,24,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27340,"28-Oct-22",47,admin.,married,university.degree,no,no,no,cellular,nov,fri,103,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27341,"28-Oct-22",56,services,single,high.school,no,yes,no,cellular,nov,fri,219,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27342,"28-Oct-22",35,management,married,university.degree,no,yes,no,cellular,nov,fri,152,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27343,"28-Oct-22",30,admin.,single,university.degree,no,no,no,cellular,nov,fri,171,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27344,"28-Oct-22",31,unemployed,married,high.school,no,no,yes,cellular,nov,fri,94,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27345,"28-Oct-22",39,services,married,high.school,no,no,yes,cellular,nov,fri,104,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27346,"28-Oct-22",56,management,married,basic.9y,no,yes,yes,cellular,nov,fri,62,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27347,"28-Oct-22",51,admin.,married,university.degree,no,no,yes,cellular,nov,fri,220,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27348,"28-Oct-22",31,admin.,single,high.school,no,yes,yes,cellular,nov,fri,50,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27349,"28-Oct-22",31,admin.,single,high.school,no,yes,yes,cellular,nov,fri,112,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27350,"28-Oct-22",43,services,single,high.school,unknown,no,yes,cellular,nov,fri,53,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27351,"28-Oct-22",56,services,married,basic.4y,unknown,yes,yes,cellular,nov,fri,119,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27352,"28-Oct-22",50,management,married,professional.course,no,yes,no,cellular,nov,fri,381,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27353,"28-Oct-22",32,technician,single,professional.course,no,yes,no,cellular,nov,fri,226,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27354,"28-Oct-22",41,management,divorced,university.degree,no,no,no,cellular,nov,fri,157,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27355,"28-Oct-22",51,admin.,married,university.degree,no,yes,no,cellular,nov,fri,673,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27356,"28-Oct-22",37,technician,single,professional.course,no,yes,no,cellular,nov,fri,347,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27357,"28-Oct-22",50,unemployed,married,professional.course,no,yes,no,cellular,nov,fri,58,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27358,"28-Oct-22",34,admin.,married,university.degree,no,yes,yes,cellular,nov,fri,85,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27359,"28-Oct-22",37,admin.,married,university.degree,no,yes,no,cellular,nov,fri,224,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27360,"28-Oct-22",47,admin.,married,university.degree,no,yes,no,cellular,nov,fri,127,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27361,"28-Oct-22",40,unemployed,divorced,university.degree,no,no,no,cellular,nov,fri,366,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27362,"28-Oct-22",33,admin.,married,university.degree,no,no,no,cellular,nov,fri,162,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27363,"28-Oct-22",39,services,married,high.school,no,yes,no,cellular,nov,fri,197,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27364,"28-Oct-22",37,technician,divorced,high.school,no,yes,no,cellular,nov,fri,47,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27365,"28-Oct-22",44,admin.,married,university.degree,unknown,no,no,cellular,nov,fri,311,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27366,"28-Oct-22",55,technician,married,professional.course,no,yes,no,cellular,nov,fri,98,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27367,"28-Oct-22",34,admin.,divorced,university.degree,no,no,no,cellular,nov,fri,549,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27368,"28-Oct-22",36,admin.,married,basic.6y,no,yes,no,cellular,nov,fri,72,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27369,"28-Oct-22",55,technician,married,professional.course,no,no,no,cellular,nov,fri,182,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27370,"28-Oct-22",36,admin.,married,basic.6y,no,yes,yes,cellular,nov,fri,183,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27371,"28-Oct-22",34,management,married,university.degree,no,no,no,cellular,nov,fri,158,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27372,"28-Oct-22",57,admin.,divorced,university.degree,unknown,no,yes,cellular,nov,fri,48,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27373,"28-Oct-22",55,housemaid,married,basic.4y,unknown,no,no,telephone,nov,fri,270,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27374,"28-Oct-22",52,admin.,married,high.school,no,yes,yes,cellular,nov,fri,57,5,6,1,success,-0.1,"93.2",-42.0,"4 021",5195,no
+27375,"28-Oct-22",55,retired,single,university.degree,unknown,no,no,cellular,nov,fri,1199,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27376,"28-Oct-22",44,blue-collar,married,basic.6y,no,yes,yes,cellular,nov,fri,36,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27377,"28-Oct-22",40,management,married,university.degree,no,no,no,cellular,nov,fri,380,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27378,"28-Oct-22",53,admin.,married,university.degree,unknown,yes,no,telephone,nov,fri,366,8,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27379,"28-Oct-22",32,admin.,married,university.degree,no,yes,no,cellular,nov,fri,78,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27380,"28-Oct-22",31,technician,married,professional.course,no,no,yes,cellular,nov,fri,161,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27381,"28-Oct-22",48,technician,married,basic.4y,unknown,no,no,cellular,nov,fri,362,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27382,"28-Oct-22",42,admin.,married,university.degree,no,no,no,cellular,nov,fri,455,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27383,"28-Oct-22",51,management,divorced,professional.course,no,no,no,cellular,nov,fri,83,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27384,"28-Oct-22",42,admin.,married,university.degree,no,yes,no,cellular,nov,fri,184,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27385,"28-Oct-22",49,technician,married,basic.4y,no,no,yes,cellular,nov,fri,295,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27386,"28-Oct-22",53,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,551,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27387,"28-Oct-22",52,services,married,basic.6y,no,no,no,cellular,nov,fri,101,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27388,"28-Oct-22",46,admin.,single,high.school,no,yes,no,cellular,nov,fri,294,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27389,"28-Oct-22",54,admin.,divorced,high.school,no,no,no,cellular,nov,fri,13,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27390,"28-Oct-22",32,management,married,university.degree,no,no,no,cellular,nov,fri,51,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27391,"28-Oct-22",33,student,single,unknown,no,yes,no,cellular,nov,fri,353,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27392,"28-Oct-22",34,technician,married,professional.course,no,yes,no,cellular,nov,fri,93,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27393,"28-Oct-22",53,technician,married,unknown,no,no,no,cellular,nov,fri,138,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27394,"28-Oct-22",50,entrepreneur,married,university.degree,no,no,no,cellular,nov,fri,48,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27395,"28-Oct-22",32,technician,divorced,high.school,no,no,no,cellular,nov,fri,50,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27396,"28-Oct-22",32,admin.,single,university.degree,no,yes,no,cellular,nov,fri,718,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27397,"28-Oct-22",49,admin.,married,unknown,no,no,no,cellular,nov,fri,288,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27398,"28-Oct-22",34,management,single,university.degree,no,unknown,unknown,telephone,nov,fri,114,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27399,"28-Oct-22",29,technician,single,professional.course,no,no,no,cellular,nov,fri,161,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27400,"28-Oct-22",57,blue-collar,married,basic.9y,unknown,no,yes,cellular,nov,fri,150,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27401,"28-Oct-22",45,services,divorced,high.school,unknown,yes,no,cellular,nov,fri,120,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27402,"28-Oct-22",33,technician,single,high.school,no,yes,no,cellular,nov,fri,41,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27403,"28-Oct-22",41,self-employed,married,professional.course,unknown,yes,no,cellular,nov,fri,1571,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27404,"28-Oct-22",44,blue-collar,married,basic.6y,no,no,yes,cellular,nov,fri,240,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27405,"28-Oct-22",49,self-employed,married,university.degree,unknown,yes,yes,cellular,nov,fri,198,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27406,"28-Oct-22",46,technician,divorced,university.degree,no,yes,no,cellular,nov,fri,75,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27407,"28-Oct-22",51,admin.,married,high.school,no,yes,no,cellular,nov,fri,108,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27408,"28-Oct-22",44,self-employed,married,professional.course,no,yes,no,telephone,nov,fri,47,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27409,"28-Oct-22",57,management,married,university.degree,no,yes,yes,cellular,nov,fri,536,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27410,"28-Oct-22",39,technician,married,high.school,no,yes,no,cellular,nov,fri,408,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27411,"28-Oct-22",56,services,single,high.school,no,yes,no,cellular,nov,fri,290,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27412,"28-Oct-22",33,self-employed,married,university.degree,no,yes,no,cellular,nov,fri,229,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27413,"28-Oct-22",33,admin.,married,university.degree,no,yes,no,telephone,nov,fri,148,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27414,"28-Oct-22",52,management,divorced,university.degree,no,no,no,cellular,nov,fri,185,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27415,"28-Oct-22",56,blue-collar,divorced,high.school,no,no,no,telephone,nov,fri,68,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27416,"28-Oct-22",31,admin.,single,university.degree,no,yes,no,cellular,nov,fri,54,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27417,"28-Oct-22",31,self-employed,single,university.degree,no,no,no,cellular,nov,fri,906,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27418,"28-Oct-22",31,admin.,single,high.school,no,no,no,cellular,nov,fri,186,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27419,"28-Oct-22",40,technician,married,university.degree,no,yes,no,cellular,nov,fri,124,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27420,"28-Oct-22",56,retired,married,basic.4y,no,yes,no,cellular,nov,fri,481,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27421,"28-Oct-22",53,management,married,university.degree,no,yes,no,cellular,nov,fri,319,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27422,"28-Oct-22",52,admin.,married,high.school,no,no,no,cellular,nov,fri,157,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27423,"28-Oct-22",40,management,married,university.degree,no,yes,no,cellular,nov,fri,106,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27424,"28-Oct-22",57,services,married,unknown,no,yes,no,cellular,nov,fri,56,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27425,"28-Oct-22",56,management,married,basic.9y,no,yes,no,telephone,nov,fri,94,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27426,"28-Oct-22",45,self-employed,single,professional.course,no,no,no,cellular,nov,fri,123,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27427,"28-Oct-22",41,technician,married,university.degree,no,yes,no,cellular,nov,fri,12,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27428,"28-Oct-22",31,admin.,single,university.degree,no,yes,yes,cellular,nov,fri,75,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27429,"28-Oct-22",34,admin.,married,university.degree,no,no,yes,cellular,nov,fri,408,9,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27430,"28-Oct-22",49,unemployed,married,high.school,unknown,no,no,cellular,nov,fri,671,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27431,"28-Oct-22",48,admin.,married,basic.9y,no,yes,yes,cellular,nov,fri,664,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27432,"28-Oct-22",59,self-employed,married,professional.course,unknown,no,no,cellular,nov,fri,383,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27433,"28-Oct-22",38,technician,single,professional.course,no,yes,no,cellular,nov,fri,119,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27434,"28-Oct-22",38,technician,single,professional.course,no,yes,yes,cellular,nov,fri,159,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27435,"28-Oct-22",31,student,married,high.school,no,no,no,cellular,nov,fri,297,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27436,"28-Oct-22",43,technician,single,high.school,no,no,no,cellular,nov,fri,61,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27437,"28-Oct-22",55,technician,single,professional.course,no,no,no,cellular,nov,fri,142,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27438,"28-Oct-22",37,technician,married,professional.course,unknown,yes,no,cellular,nov,fri,222,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27439,"28-Oct-22",34,admin.,single,university.degree,no,no,no,telephone,nov,fri,34,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27440,"28-Oct-22",46,management,married,high.school,no,no,no,cellular,nov,fri,79,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27441,"28-Oct-22",39,admin.,single,unknown,no,no,no,cellular,nov,fri,188,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27442,"28-Oct-22",40,management,married,high.school,no,yes,no,cellular,nov,fri,7,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27443,"28-Oct-22",58,admin.,married,university.degree,no,no,no,telephone,nov,fri,186,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27444,"28-Oct-22",31,technician,married,university.degree,no,yes,no,cellular,nov,fri,105,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27445,"28-Oct-22",57,blue-collar,married,basic.9y,unknown,yes,no,telephone,nov,fri,126,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27446,"28-Oct-22",36,admin.,single,high.school,no,yes,yes,telephone,nov,fri,661,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27447,"28-Oct-22",37,entrepreneur,married,university.degree,no,yes,no,telephone,nov,fri,45,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27448,"28-Oct-22",30,blue-collar,married,high.school,no,yes,yes,cellular,nov,fri,14,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27449,"28-Oct-22",51,admin.,single,university.degree,unknown,no,no,cellular,nov,fri,224,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27450,"28-Oct-22",50,blue-collar,married,unknown,no,no,no,telephone,nov,fri,20,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27451,"28-Oct-22",29,management,single,university.degree,no,yes,no,cellular,nov,fri,155,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27452,"28-Oct-22",48,technician,married,professional.course,no,no,no,cellular,nov,fri,78,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27453,"28-Oct-22",44,admin.,married,high.school,no,no,no,cellular,nov,fri,10,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27454,"28-Oct-22",46,self-employed,married,professional.course,no,yes,no,telephone,nov,fri,379,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27455,"28-Oct-22",47,technician,married,unknown,unknown,yes,no,cellular,nov,fri,57,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27456,"28-Oct-22",32,admin.,single,university.degree,no,no,yes,cellular,nov,fri,21,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27457,"28-Oct-22",36,admin.,married,university.degree,no,yes,no,cellular,nov,fri,85,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27458,"28-Oct-22",53,management,married,university.degree,no,yes,yes,cellular,nov,fri,106,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27459,"28-Oct-22",53,admin.,married,high.school,no,yes,no,cellular,nov,fri,50,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27460,"28-Oct-22",56,blue-collar,married,basic.9y,no,yes,no,cellular,nov,fri,757,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27461,"28-Oct-22",47,technician,married,unknown,unknown,yes,no,cellular,nov,fri,624,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27462,"28-Oct-22",37,admin.,single,high.school,no,yes,no,cellular,nov,fri,103,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27463,"28-Oct-22",44,entrepreneur,married,university.degree,no,yes,no,cellular,nov,fri,570,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27464,"28-Oct-22",52,admin.,married,high.school,no,yes,no,cellular,nov,fri,139,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27465,"28-Oct-22",56,technician,married,professional.course,no,no,no,cellular,nov,fri,157,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27466,"28-Oct-22",35,management,married,university.degree,no,yes,no,cellular,nov,fri,579,9,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27467,"28-Oct-22",40,student,single,high.school,no,no,no,cellular,nov,fri,328,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27468,"28-Oct-22",46,unemployed,divorced,basic.4y,no,no,no,cellular,nov,fri,366,3,3,1,success,-0.1,"93.2",-42.0,"4 021",5195,no
+27469,"28-Oct-22",29,technician,single,professional.course,no,yes,no,cellular,nov,fri,1555,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27470,"28-Oct-22",39,admin.,single,unknown,no,no,no,cellular,nov,fri,504,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,yes
+27471,"28-Oct-22",39,housemaid,married,basic.9y,no,yes,no,cellular,nov,fri,150,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27472,"28-Oct-22",39,entrepreneur,married,university.degree,no,unknown,unknown,cellular,nov,fri,146,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27473,"28-Oct-22",57,admin.,divorced,university.degree,unknown,no,no,cellular,nov,fri,69,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27474,"28-Oct-22",34,admin.,single,university.degree,no,no,no,cellular,nov,fri,139,6,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27475,"28-Oct-22",51,technician,married,professional.course,no,yes,no,cellular,nov,fri,51,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27476,"28-Oct-22",51,admin.,married,university.degree,no,yes,yes,cellular,nov,fri,175,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27477,"28-Oct-22",50,retired,married,university.degree,no,no,no,cellular,nov,fri,128,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27478,"28-Oct-22",53,technician,married,professional.course,no,yes,no,cellular,nov,fri,11,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27479,"28-Oct-22",41,technician,married,professional.course,no,yes,no,cellular,nov,fri,82,5,5,1,success,-0.1,"93.2",-42.0,"4 021",5195,no
+27480,"28-Oct-22",30,admin.,single,university.degree,no,yes,yes,telephone,nov,fri,33,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27481,"28-Oct-22",45,technician,married,professional.course,no,yes,yes,cellular,nov,fri,52,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27482,"28-Oct-22",51,management,married,university.degree,no,yes,no,cellular,nov,fri,289,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27483,"28-Oct-22",43,technician,married,university.degree,no,no,yes,cellular,nov,fri,43,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27484,"28-Oct-22",32,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,101,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27485,"28-Oct-22",50,technician,married,professional.course,no,no,no,cellular,nov,fri,402,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27486,"28-Oct-22",45,admin.,divorced,university.degree,no,no,yes,cellular,nov,fri,59,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27487,"28-Oct-22",50,retired,single,university.degree,no,yes,no,cellular,nov,fri,39,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27488,"28-Oct-22",41,management,divorced,university.degree,no,no,no,cellular,nov,fri,57,8,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27489,"28-Oct-22",57,technician,divorced,professional.course,no,unknown,unknown,cellular,nov,fri,87,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27490,"28-Oct-22",55,management,divorced,university.degree,unknown,no,no,cellular,nov,fri,89,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27491,"28-Oct-22",40,management,married,university.degree,no,no,no,cellular,nov,fri,608,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27492,"28-Oct-22",50,admin.,divorced,high.school,no,yes,no,cellular,nov,fri,430,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27493,"28-Oct-22",58,management,married,basic.4y,no,no,no,cellular,nov,fri,240,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27494,"28-Oct-22",42,technician,single,professional.course,no,yes,no,cellular,nov,fri,173,1,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27495,"28-Oct-22",53,management,married,university.degree,no,no,no,cellular,nov,fri,137,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27496,"28-Oct-22",34,technician,married,professional.course,no,yes,yes,cellular,nov,fri,379,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27497,"28-Oct-22",49,management,married,university.degree,no,no,no,cellular,nov,fri,1036,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27498,"28-Oct-22",42,technician,divorced,professional.course,no,no,no,cellular,nov,fri,675,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27499,"28-Oct-22",40,management,single,university.degree,no,no,no,cellular,nov,fri,139,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27500,"28-Oct-22",54,admin.,divorced,high.school,no,no,yes,cellular,nov,fri,377,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27501,"28-Oct-22",29,technician,single,professional.course,no,no,no,cellular,nov,fri,394,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27502,"28-Oct-22",34,admin.,single,university.degree,no,no,no,cellular,nov,fri,70,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27503,"28-Oct-22",38,technician,single,professional.course,unknown,no,no,cellular,nov,fri,519,1,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27504,"28-Oct-22",53,self-employed,married,university.degree,no,yes,no,cellular,nov,fri,61,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27505,"28-Oct-22",39,management,married,high.school,no,no,no,cellular,nov,fri,163,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27506,"28-Oct-22",50,technician,married,university.degree,no,no,no,cellular,nov,fri,302,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27507,"28-Oct-22",57,admin.,married,high.school,no,yes,no,cellular,nov,fri,41,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27508,"28-Oct-22",37,self-employed,married,university.degree,no,no,no,telephone,nov,fri,39,9,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27509,"28-Oct-22",35,admin.,single,university.degree,no,no,no,cellular,nov,fri,360,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27510,"28-Oct-22",37,unemployed,single,university.degree,no,yes,no,cellular,nov,fri,230,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27511,"28-Oct-22",51,admin.,divorced,basic.9y,no,yes,no,cellular,nov,fri,155,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27512,"28-Oct-22",54,technician,single,high.school,no,yes,no,cellular,nov,fri,32,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27513,"28-Oct-22",30,entrepreneur,divorced,high.school,no,no,no,telephone,nov,fri,61,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27514,"28-Oct-22",34,technician,married,professional.course,no,yes,no,cellular,nov,fri,251,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27515,"28-Oct-22",57,management,married,university.degree,unknown,yes,yes,cellular,nov,fri,22,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27516,"28-Oct-22",57,services,married,unknown,no,no,no,cellular,nov,fri,58,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27517,"28-Oct-22",46,technician,married,professional.course,no,no,no,cellular,nov,fri,38,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27518,"28-Oct-22",31,admin.,single,university.degree,no,yes,no,cellular,nov,fri,36,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27519,"28-Oct-22",43,housemaid,married,basic.4y,no,no,no,cellular,nov,fri,165,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27520,"28-Oct-22",48,unemployed,married,professional.course,unknown,yes,yes,telephone,nov,fri,83,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27521,"28-Oct-22",56,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,11,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27522,"28-Oct-22",46,technician,married,professional.course,no,no,yes,cellular,nov,fri,98,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27523,"28-Oct-22",41,blue-collar,married,unknown,no,yes,no,cellular,nov,fri,663,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27524,"28-Oct-22",53,admin.,divorced,high.school,no,yes,yes,telephone,nov,fri,544,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27525,"28-Oct-22",57,technician,married,university.degree,unknown,yes,no,cellular,nov,fri,39,10,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27526,"28-Oct-22",53,blue-collar,married,basic.4y,no,no,no,cellular,nov,fri,122,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27527,"28-Oct-22",48,technician,married,professional.course,no,yes,yes,cellular,nov,fri,695,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27528,"28-Oct-22",31,admin.,single,high.school,no,yes,no,cellular,nov,fri,369,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27529,"28-Oct-22",44,entrepreneur,married,university.degree,no,no,no,cellular,nov,fri,88,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27530,"28-Oct-22",47,admin.,married,basic.9y,no,yes,no,telephone,nov,fri,64,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27531,"28-Oct-22",43,services,single,high.school,unknown,yes,no,cellular,nov,fri,216,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27532,"28-Oct-22",36,admin.,single,high.school,no,yes,no,cellular,nov,fri,90,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27533,"28-Oct-22",32,management,single,university.degree,no,yes,yes,cellular,nov,fri,164,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27534,"28-Oct-22",40,management,married,university.degree,no,no,no,cellular,nov,fri,147,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27535,"28-Oct-22",53,retired,married,high.school,no,no,no,cellular,nov,fri,268,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27536,"28-Oct-22",37,self-employed,married,university.degree,no,no,no,cellular,nov,fri,169,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27537,"28-Oct-22",30,student,single,university.degree,no,no,no,cellular,nov,fri,585,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27538,"28-Oct-22",49,admin.,married,high.school,no,yes,no,cellular,nov,fri,36,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27539,"28-Oct-22",53,management,married,university.degree,no,yes,no,cellular,nov,fri,129,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27540,"28-Oct-22",37,management,married,university.degree,no,yes,no,cellular,nov,fri,33,8,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27541,"28-Oct-22",42,self-employed,married,university.degree,no,yes,no,cellular,nov,fri,888,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27542,"28-Oct-22",56,admin.,married,university.degree,no,no,no,cellular,nov,fri,808,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27543,"28-Oct-22",43,technician,married,professional.course,no,no,no,cellular,nov,fri,14,9,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27544,"28-Oct-22",51,housemaid,married,high.school,no,no,yes,cellular,nov,fri,305,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27545,"28-Oct-22",44,technician,single,professional.course,no,yes,no,cellular,nov,fri,18,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27546,"28-Oct-22",57,blue-collar,married,basic.9y,unknown,yes,yes,cellular,nov,fri,134,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27547,"28-Oct-22",44,admin.,married,university.degree,no,no,no,cellular,nov,fri,77,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27548,"28-Oct-22",51,services,single,high.school,unknown,no,no,cellular,nov,fri,107,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27549,"28-Oct-22",56,admin.,married,basic.4y,no,yes,no,cellular,nov,fri,382,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27550,"28-Oct-22",59,admin.,married,university.degree,unknown,no,no,cellular,nov,fri,140,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27551,"28-Oct-22",56,services,married,basic.4y,unknown,yes,no,cellular,nov,fri,39,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27552,"28-Oct-22",52,blue-collar,married,basic.9y,no,no,no,cellular,nov,fri,13,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27553,"28-Oct-22",51,blue-collar,married,basic.9y,no,no,no,cellular,nov,fri,1032,10,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27554,"28-Oct-22",30,admin.,single,high.school,no,no,yes,cellular,nov,fri,64,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27555,"28-Oct-22",48,admin.,married,university.degree,no,no,no,cellular,nov,fri,634,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27556,"28-Oct-22",34,admin.,married,university.degree,no,yes,no,cellular,nov,fri,138,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27557,"28-Oct-22",47,management,married,high.school,no,yes,yes,cellular,nov,fri,225,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27558,"28-Oct-22",42,services,divorced,high.school,no,yes,no,cellular,nov,fri,855,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27559,"28-Oct-22",30,admin.,single,university.degree,no,no,no,cellular,nov,fri,258,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27560,"28-Oct-22",46,technician,married,professional.course,no,yes,yes,cellular,nov,fri,484,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27561,"28-Oct-22",51,technician,married,professional.course,no,yes,no,cellular,nov,fri,229,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27562,"28-Oct-22",43,technician,married,university.degree,no,yes,no,cellular,nov,fri,330,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27563,"28-Oct-22",33,admin.,married,university.degree,no,yes,no,cellular,nov,fri,41,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27564,"28-Oct-22",29,admin.,single,university.degree,no,yes,yes,cellular,nov,fri,1222,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27565,"28-Oct-22",53,blue-collar,married,basic.9y,no,no,no,cellular,nov,fri,395,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27566,"28-Oct-22",58,management,divorced,university.degree,no,yes,no,telephone,nov,fri,39,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27567,"28-Oct-22",54,admin.,divorced,high.school,no,no,no,cellular,nov,fri,639,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27568,"28-Oct-22",53,retired,married,high.school,no,yes,no,cellular,nov,fri,711,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27569,"28-Oct-22",47,admin.,single,high.school,no,no,no,telephone,nov,fri,178,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27570,"28-Oct-22",44,management,single,university.degree,unknown,no,no,cellular,nov,fri,534,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27571,"28-Oct-22",37,unemployed,single,university.degree,no,no,yes,cellular,nov,fri,104,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27572,"28-Oct-22",43,blue-collar,married,professional.course,no,no,yes,cellular,nov,fri,432,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27573,"28-Oct-22",50,services,single,high.school,no,yes,no,cellular,nov,fri,1195,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27574,"28-Oct-22",48,blue-collar,married,basic.4y,no,yes,no,cellular,nov,fri,168,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27575,"28-Oct-22",34,admin.,single,university.degree,no,no,no,cellular,nov,fri,229,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27576,"28-Oct-22",56,unemployed,married,basic.9y,no,yes,yes,cellular,nov,fri,322,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27577,"28-Oct-22",57,admin.,married,university.degree,no,no,no,cellular,nov,fri,127,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27578,"28-Oct-22",47,admin.,married,university.degree,no,yes,no,cellular,nov,fri,59,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27579,"28-Oct-22",59,technician,single,professional.course,no,yes,no,cellular,nov,fri,246,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27580,"28-Oct-22",47,admin.,married,high.school,no,yes,no,cellular,nov,fri,140,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27581,"28-Oct-22",37,technician,married,professional.course,unknown,no,no,cellular,nov,fri,210,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27582,"28-Oct-22",53,admin.,married,high.school,no,no,no,cellular,nov,fri,11,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27583,"28-Oct-22",57,self-employed,married,university.degree,no,yes,no,cellular,nov,fri,208,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27584,"28-Oct-22",44,blue-collar,married,basic.6y,no,yes,no,cellular,nov,fri,358,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27585,"28-Oct-22",41,services,married,unknown,no,no,no,cellular,nov,fri,64,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27586,"28-Oct-22",41,technician,married,professional.course,no,no,no,cellular,nov,fri,407,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27587,"28-Oct-22",41,technician,single,university.degree,no,no,no,cellular,nov,fri,903,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27588,"28-Oct-22",53,blue-collar,married,basic.4y,unknown,no,no,cellular,nov,fri,205,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27589,"28-Oct-22",48,admin.,married,university.degree,no,no,no,cellular,nov,fri,66,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27590,"28-Oct-22",52,admin.,divorced,high.school,no,yes,no,cellular,nov,fri,127,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27591,"28-Oct-22",30,admin.,single,university.degree,no,no,no,cellular,nov,fri,331,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,yes
+27592,"28-Oct-22",30,technician,single,university.degree,no,no,no,cellular,nov,fri,307,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27593,"28-Oct-22",45,admin.,single,university.degree,no,no,no,cellular,nov,fri,27,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27594,"28-Oct-22",56,retired,married,basic.4y,no,no,no,cellular,nov,fri,163,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27595,"28-Oct-22",32,entrepreneur,single,high.school,unknown,yes,yes,cellular,nov,fri,64,6,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27596,"28-Oct-22",49,unemployed,single,high.school,no,yes,no,telephone,nov,fri,136,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27597,"28-Oct-22",31,technician,married,professional.course,no,yes,no,cellular,nov,fri,95,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27598,"28-Oct-22",58,admin.,married,basic.4y,no,no,no,cellular,nov,fri,505,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27599,"28-Oct-22",49,blue-collar,married,university.degree,no,no,no,cellular,nov,fri,170,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27600,"28-Oct-22",32,technician,single,university.degree,no,yes,yes,cellular,nov,fri,1162,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27601,"28-Oct-22",48,unemployed,divorced,professional.course,no,yes,no,telephone,nov,fri,122,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27602,"28-Oct-22",35,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,72,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27603,"28-Oct-22",57,technician,married,professional.course,no,yes,no,cellular,nov,fri,294,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27604,"28-Oct-22",46,housemaid,married,university.degree,unknown,yes,no,cellular,nov,fri,82,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27605,"28-Oct-22",53,blue-collar,married,basic.4y,no,yes,no,cellular,nov,fri,15,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27606,"28-Oct-22",30,blue-collar,single,university.degree,no,yes,no,cellular,nov,fri,7,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27607,"28-Oct-22",58,admin.,married,university.degree,no,yes,no,cellular,nov,fri,21,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27608,"28-Oct-22",29,admin.,single,university.degree,no,yes,no,cellular,nov,fri,118,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27609,"28-Oct-22",47,admin.,married,high.school,no,no,no,cellular,nov,fri,21,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27610,"28-Oct-22",30,self-employed,single,university.degree,no,no,no,telephone,nov,fri,345,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27611,"28-Oct-22",48,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,96,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27612,"28-Oct-22",52,unemployed,married,university.degree,no,yes,no,cellular,nov,fri,211,7,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27613,"28-Oct-22",50,admin.,married,university.degree,no,yes,no,cellular,nov,fri,73,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27614,"28-Oct-22",37,self-employed,married,university.degree,no,yes,no,cellular,nov,fri,6,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27615,"28-Oct-22",55,entrepreneur,divorced,university.degree,no,no,no,cellular,nov,fri,110,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27616,"28-Oct-22",58,retired,divorced,professional.course,no,yes,no,cellular,nov,fri,321,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27617,"28-Oct-22",57,blue-collar,married,basic.9y,unknown,yes,no,cellular,nov,fri,170,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27618,"28-Oct-22",37,self-employed,married,university.degree,no,yes,no,cellular,nov,fri,56,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27619,"28-Oct-22",53,unemployed,single,basic.9y,no,no,no,cellular,nov,fri,125,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27620,"28-Oct-22",51,technician,married,professional.course,unknown,no,no,cellular,nov,fri,281,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27621,"28-Oct-22",29,self-employed,single,university.degree,no,yes,no,cellular,nov,fri,328,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27622,"28-Oct-22",51,management,married,university.degree,no,no,yes,telephone,nov,fri,13,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27623,"28-Oct-22",55,management,married,university.degree,no,no,yes,cellular,nov,fri,296,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27624,"28-Oct-22",37,self-employed,married,university.degree,no,yes,no,cellular,nov,fri,48,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27625,"28-Oct-22",30,unemployed,married,professional.course,no,yes,no,telephone,nov,fri,77,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27626,"28-Oct-22",42,admin.,married,high.school,no,yes,no,cellular,nov,fri,8,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27627,"28-Oct-22",41,admin.,married,university.degree,no,no,no,cellular,nov,fri,182,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27628,"28-Oct-22",37,entrepreneur,married,university.degree,no,yes,no,cellular,nov,fri,12,5,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27629,"28-Oct-22",40,services,single,high.school,unknown,no,no,cellular,nov,fri,8,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27630,"28-Oct-22",58,retired,married,professional.course,unknown,no,no,cellular,nov,fri,158,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27631,"28-Oct-22",51,admin.,married,high.school,no,yes,no,cellular,nov,fri,9,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27632,"28-Oct-22",46,admin.,divorced,university.degree,no,no,no,telephone,nov,fri,11,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27633,"28-Oct-22",43,technician,married,university.degree,no,no,no,cellular,nov,fri,24,9,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27634,"28-Oct-22",50,technician,married,university.degree,no,yes,no,cellular,nov,fri,175,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27635,"28-Oct-22",54,self-employed,married,university.degree,unknown,no,no,cellular,nov,fri,9,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27636,"28-Oct-22",29,blue-collar,single,basic.6y,no,no,no,telephone,nov,fri,69,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27637,"28-Oct-22",44,self-employed,divorced,professional.course,no,no,no,cellular,nov,fri,37,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27638,"28-Oct-22",33,admin.,single,professional.course,no,yes,no,telephone,nov,fri,240,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27639,"28-Oct-22",35,blue-collar,married,basic.9y,no,yes,no,cellular,nov,fri,11,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27640,"28-Oct-22",52,services,divorced,basic.4y,unknown,yes,yes,cellular,nov,fri,23,8,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27641,"28-Oct-22",49,entrepreneur,married,university.degree,no,yes,no,cellular,nov,fri,13,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27642,"28-Oct-22",58,retired,married,professional.course,unknown,yes,yes,cellular,nov,fri,22,4,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27643,"28-Oct-22",40,management,married,university.degree,no,no,no,cellular,nov,fri,234,5,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27644,"28-Oct-22",31,technician,single,university.degree,no,yes,yes,telephone,nov,fri,30,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27645,"28-Oct-22",35,self-employed,married,university.degree,no,no,no,cellular,nov,fri,8,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27646,"28-Oct-22",45,technician,single,university.degree,no,no,no,cellular,nov,fri,80,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27647,"28-Oct-22",31,unemployed,single,basic.4y,no,no,no,cellular,nov,fri,12,8,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27648,"28-Oct-22",31,admin.,single,university.degree,no,no,no,cellular,nov,fri,85,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27649,"28-Oct-22",34,services,single,basic.9y,no,yes,no,cellular,nov,fri,143,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27650,"28-Oct-22",36,self-employed,married,basic.9y,no,yes,yes,cellular,nov,fri,14,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27651,"28-Oct-22",44,admin.,married,university.degree,unknown,no,no,cellular,nov,fri,48,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27652,"28-Oct-22",40,admin.,single,university.degree,no,yes,yes,cellular,nov,fri,12,10,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27653,"28-Oct-22",47,technician,married,high.school,unknown,yes,no,cellular,nov,fri,29,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27654,"28-Oct-22",48,blue-collar,married,basic.4y,unknown,no,no,cellular,nov,fri,168,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27655,"28-Oct-22",50,retired,single,university.degree,no,no,no,cellular,nov,fri,51,5,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27656,"28-Oct-22",56,services,single,high.school,no,yes,yes,cellular,nov,fri,12,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27657,"28-Oct-22",37,admin.,single,university.degree,no,yes,yes,cellular,nov,fri,33,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27658,"28-Oct-22",51,admin.,single,university.degree,unknown,yes,yes,cellular,nov,fri,53,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27659,"28-Oct-22",50,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,72,3,1,2,success,-0.1,"93.2",-42.0,"4 021",5195,no
+27660,"28-Oct-22",39,admin.,single,unknown,no,yes,no,cellular,nov,fri,79,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27661,"28-Oct-22",32,management,married,university.degree,no,yes,yes,cellular,nov,fri,1067,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27662,"28-Oct-22",42,admin.,divorced,university.degree,no,yes,no,cellular,nov,fri,10,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27663,"28-Oct-22",48,admin.,married,university.degree,unknown,no,no,cellular,nov,fri,71,9,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27664,"28-Oct-22",49,blue-collar,married,basic.9y,no,no,no,cellular,nov,fri,273,5,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27665,"28-Oct-22",51,blue-collar,married,high.school,no,no,no,cellular,nov,fri,11,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27666,"28-Oct-22",55,management,married,basic.9y,no,no,no,cellular,nov,fri,189,2,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27667,"28-Oct-22",48,admin.,married,university.degree,no,no,no,cellular,nov,fri,61,7,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27668,"28-Oct-22",39,management,married,university.degree,no,yes,no,telephone,nov,fri,10,7,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27669,"28-Oct-22",40,technician,married,university.degree,no,yes,no,telephone,nov,fri,10,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27670,"28-Oct-22",55,management,married,university.degree,unknown,yes,no,cellular,nov,fri,280,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27671,"28-Oct-22",39,self-employed,married,professional.course,no,no,no,telephone,nov,fri,47,4,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27672,"28-Oct-22",37,admin.,married,unknown,no,no,no,cellular,nov,fri,34,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27673,"28-Oct-22",41,technician,married,university.degree,no,yes,yes,cellular,nov,fri,38,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27674,"28-Oct-22",32,admin.,married,high.school,no,no,no,cellular,nov,fri,219,2,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27675,"28-Oct-22",34,admin.,married,university.degree,no,no,no,telephone,nov,fri,205,3,999,1,failure,-0.1,"93.2",-42.0,"4 021",5195,no
+27676,"28-Oct-22",41,blue-collar,single,basic.9y,unknown,no,no,cellular,nov,fri,643,3,999,0,nonexistent,-0.1,"93.2",-42.0,"4 021",5195,no
+27677,"28-Oct-22",38,technician,married,professional.course,no,yes,yes,telephone,nov,wed,49,1,999,0,nonexistent,-0.1,"93.2",-42.0,"3 901",5195,no
+27678,"28-Oct-22",32,unemployed,single,high.school,no,no,yes,telephone,nov,thu,114,1,999,0,nonexistent,-0.1,"93.2",-42.0,"3 879",5195,no
+27679,"28-Oct-22",46,entrepreneur,single,professional.course,no,yes,no,telephone,nov,thu,8,1,999,0,nonexistent,-0.1,"93.2",-42.0,"3 879",5195,no
+27680,"28-Oct-22",27,admin.,single,high.school,no,yes,no,telephone,nov,fri,24,1,999,0,nonexistent,-0.1,"93.2",-42.0,"3 853",5195,no
+27681,"28-Oct-22",31,admin.,single,high.school,no,yes,no,telephone,dec,mon,36,1,999,0,nonexistent,-0.2,"92 756",-45.9,"3 816",5176,no
+27682,"28-Oct-22",39,housemaid,married,basic.4y,no,yes,no,telephone,dec,wed,11,1,999,1,failure,-0.2,"92 756",-45.9,"3 743",5176,no
+27683,"28-Oct-22",41,technician,divorced,professional.course,no,no,yes,cellular,dec,thu,18,1,999,0,nonexistent,-0.2,"92 756",-45.9,"3 669",5176,no
+27684,"28-Oct-22",37,admin.,married,high.school,no,yes,no,telephone,dec,fri,12,1,999,0,nonexistent,-0.2,"92 756",-45.9,"3 563",5176,no
+27685,"28-Oct-22",48,admin.,married,high.school,no,yes,yes,telephone,dec,fri,291,1,999,0,nonexistent,-0.2,"92 756",-45.9,"3 563",5176,no
+27686,"28-Oct-22",51,blue-collar,married,basic.4y,no,yes,yes,telephone,dec,mon,170,1,999,0,nonexistent,-0.2,"92 756",-45.9,"3 488",5176,no
+27687,"28-Oct-22",39,technician,married,professional.course,no,yes,no,telephone,dec,tue,183,1,999,0,nonexistent,-0.2,"92 756",-45.9,"3 428",5176,no
+27688,"28-Oct-22",36,blue-collar,married,high.school,no,yes,no,cellular,dec,thu,234,1,999,0,nonexistent,-0.2,"92 756",-45.9,"3 329",5176,no
+27689,"28-Oct-22",55,unemployed,divorced,professional.course,no,no,no,telephone,dec,fri,136,1,999,0,nonexistent,-0.2,"92 756",-45.9,"3 282",5176,no
+27690,"28-Oct-22",44,blue-collar,married,basic.4y,no,yes,yes,telephone,dec,mon,119,1,999,0,nonexistent,-0.2,"92 756",-45.9,"3 053",5176,yes
+27691,"28-Oct-22",26,student,single,basic.9y,no,yes,no,cellular,mar,mon,712,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27692,"28-Oct-22",38,admin.,single,university.degree,no,yes,no,cellular,mar,mon,111,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27693,"28-Oct-22",26,student,single,basic.9y,no,no,no,cellular,mar,mon,42,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27694,"28-Oct-22",26,student,single,basic.9y,no,yes,no,telephone,mar,mon,169,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27695,"28-Oct-22",30,management,married,university.degree,no,yes,no,telephone,mar,mon,213,7,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27696,"28-Oct-22",26,student,single,basic.9y,no,yes,yes,cellular,mar,mon,78,4,999,1,failure,-1.8,"92 843",-50.0,"1 811",5099,no
+27697,"28-Oct-22",28,technician,single,university.degree,no,yes,no,cellular,mar,mon,76,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27698,"28-Oct-22",35,admin.,married,university.degree,no,yes,no,cellular,mar,mon,378,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27699,"28-Oct-22",30,management,married,university.degree,no,no,no,cellular,mar,mon,116,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27700,"28-Oct-22",48,admin.,married,basic.6y,no,no,no,telephone,mar,mon,139,5,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27701,"28-Oct-22",26,admin.,married,university.degree,no,yes,no,cellular,mar,mon,154,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27702,"28-Oct-22",28,technician,single,university.degree,no,no,no,cellular,mar,mon,142,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27703,"28-Oct-22",31,admin.,single,university.degree,no,yes,no,cellular,mar,mon,145,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27704,"28-Oct-22",38,admin.,single,university.degree,no,yes,no,cellular,mar,mon,69,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27705,"28-Oct-22",44,blue-collar,single,professional.course,no,no,no,cellular,mar,mon,239,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27706,"28-Oct-22",28,technician,single,university.degree,no,yes,yes,cellular,mar,mon,54,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27707,"28-Oct-22",30,management,married,university.degree,no,yes,no,cellular,mar,mon,170,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27708,"28-Oct-22",26,admin.,married,university.degree,no,yes,no,cellular,mar,mon,175,5,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27709,"28-Oct-22",28,technician,single,university.degree,no,yes,no,cellular,mar,mon,120,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27710,"28-Oct-22",26,student,single,basic.9y,no,yes,no,cellular,mar,mon,59,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27711,"28-Oct-22",28,technician,single,university.degree,no,no,no,cellular,mar,mon,56,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27712,"28-Oct-22",26,student,single,basic.9y,no,yes,no,cellular,mar,mon,1447,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27713,"28-Oct-22",26,admin.,married,university.degree,no,yes,no,cellular,mar,mon,76,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27714,"28-Oct-22",70,retired,divorced,basic.4y,no,yes,no,cellular,mar,mon,187,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27715,"28-Oct-22",28,technician,single,university.degree,no,yes,no,cellular,mar,mon,131,12,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27716,"28-Oct-22",61,admin.,married,university.degree,no,yes,no,cellular,mar,mon,136,6,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27717,"28-Oct-22",26,student,single,basic.9y,no,no,yes,cellular,mar,mon,889,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27718,"28-Oct-22",48,admin.,married,basic.6y,no,yes,no,telephone,mar,mon,382,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27719,"28-Oct-22",26,student,single,basic.9y,no,yes,no,cellular,mar,mon,294,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,yes
+27720,"28-Oct-22",30,management,married,university.degree,no,no,no,telephone,mar,mon,88,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27721,"28-Oct-22",31,admin.,single,university.degree,no,no,yes,telephone,mar,mon,39,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 811",5099,no
+27722,"28-Oct-22",28,admin.,single,high.school,no,yes,no,cellular,mar,tue,143,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,yes
+27723,"28-Oct-22",42,entrepreneur,married,basic.9y,no,unknown,unknown,cellular,mar,tue,133,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,no
+27724,"28-Oct-22",66,technician,married,professional.course,no,yes,no,cellular,mar,tue,83,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,yes
+27725,"28-Oct-22",26,unknown,single,basic.9y,no,no,no,cellular,mar,tue,212,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,no
+27726,"28-Oct-22",34,management,married,university.degree,no,no,no,cellular,mar,tue,499,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,yes
+27727,"28-Oct-22",35,admin.,married,high.school,no,yes,no,cellular,mar,tue,350,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,yes
+27728,"28-Oct-22",34,management,married,university.degree,no,yes,no,cellular,mar,tue,225,5,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,no
+27729,"28-Oct-22",24,services,single,unknown,no,no,no,cellular,mar,tue,103,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,no
+27730,"28-Oct-22",28,student,single,basic.9y,no,yes,no,cellular,mar,tue,320,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,yes
+27731,"28-Oct-22",28,student,single,basic.9y,no,yes,no,cellular,mar,tue,156,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,yes
+27732,"28-Oct-22",36,admin.,married,high.school,no,no,no,cellular,mar,tue,168,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,yes
+27733,"28-Oct-22",43,blue-collar,married,basic.9y,no,no,no,cellular,mar,tue,180,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,yes
+27734,"28-Oct-22",24,services,single,unknown,no,yes,no,cellular,mar,tue,305,13,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,yes
+27735,"28-Oct-22",28,student,single,basic.9y,no,yes,no,cellular,mar,tue,96,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 799",5099,yes
+27736,"28-Oct-22",32,technician,married,professional.course,no,no,yes,telephone,mar,wed,92,5,999,0,nonexistent,-1.8,"92 843",-50.0,"1 778",5099,no
+27737,"28-Oct-22",41,services,married,high.school,no,no,no,cellular,mar,wed,377,6,999,0,nonexistent,-1.8,"92 843",-50.0,"1 778",5099,yes
+27738,"28-Oct-22",41,services,married,high.school,no,no,no,cellular,mar,wed,396,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 778",5099,yes
+27739,"28-Oct-22",23,admin.,single,university.degree,no,unknown,unknown,cellular,mar,thu,308,2,999,1,failure,-1.8,"92 843",-50.0,"1 757",5099,yes
+27740,"28-Oct-22",38,technician,married,professional.course,no,no,no,cellular,mar,thu,66,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27741,"28-Oct-22",38,technician,married,professional.course,no,no,no,cellular,mar,thu,92,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27742,"28-Oct-22",44,management,married,basic.6y,no,yes,no,cellular,mar,thu,61,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27743,"28-Oct-22",38,technician,married,professional.course,no,yes,yes,cellular,mar,thu,63,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,yes
+27744,"28-Oct-22",33,admin.,divorced,high.school,no,yes,no,cellular,mar,thu,86,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27745,"28-Oct-22",23,admin.,single,university.degree,no,yes,no,cellular,mar,thu,64,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27746,"28-Oct-22",44,management,married,basic.6y,no,yes,yes,cellular,mar,thu,218,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27747,"28-Oct-22",33,management,married,university.degree,no,yes,no,telephone,mar,thu,181,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,yes
+27748,"28-Oct-22",44,management,married,basic.6y,no,yes,no,cellular,mar,thu,53,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27749,"28-Oct-22",38,technician,married,professional.course,no,yes,no,cellular,mar,thu,182,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,yes
+27750,"28-Oct-22",23,admin.,single,university.degree,no,yes,no,cellular,mar,thu,90,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27751,"28-Oct-22",33,admin.,divorced,high.school,no,no,no,cellular,mar,thu,41,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27752,"28-Oct-22",38,technician,married,professional.course,no,no,yes,cellular,mar,thu,137,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,yes
+27753,"28-Oct-22",38,technician,married,professional.course,no,no,no,cellular,mar,thu,119,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27754,"28-Oct-22",38,technician,married,professional.course,no,no,no,cellular,mar,thu,106,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,yes
+27755,"28-Oct-22",38,technician,married,professional.course,no,no,yes,cellular,mar,thu,196,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,yes
+27756,"28-Oct-22",32,admin.,married,high.school,no,no,no,cellular,mar,thu,115,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27757,"28-Oct-22",38,technician,married,professional.course,no,no,no,cellular,mar,thu,84,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27758,"28-Oct-22",76,retired,married,university.degree,no,no,yes,cellular,mar,thu,167,9,999,0,nonexistent,-1.8,"92 843",-50.0,"1 757",5099,no
+27759,"28-Oct-22",38,technician,married,professional.course,no,no,yes,cellular,mar,fri,195,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 726",5099,yes
+27760,"28-Oct-22",34,technician,single,professional.course,no,no,no,cellular,mar,fri,229,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 726",5099,yes
+27761,"28-Oct-22",34,technician,single,professional.course,no,yes,no,cellular,mar,fri,227,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 726",5099,yes
+27762,"28-Oct-22",34,technician,single,professional.course,no,yes,yes,cellular,mar,fri,136,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 726",5099,no
+27763,"28-Oct-22",38,technician,married,professional.course,no,yes,no,cellular,mar,fri,119,5,999,0,nonexistent,-1.8,"92 843",-50.0,"1 726",5099,no
+27764,"28-Oct-22",38,technician,married,professional.course,no,yes,no,cellular,mar,fri,166,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 726",5099,yes
+27765,"28-Oct-22",38,technician,married,professional.course,no,yes,no,cellular,mar,fri,363,2,10,1,success,-1.8,"92 843",-50.0,"1 726",5099,yes
+27766,"28-Oct-22",34,technician,single,professional.course,no,yes,no,cellular,mar,fri,266,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 726",5099,yes
+27767,"28-Oct-22",34,technician,single,professional.course,no,yes,yes,cellular,mar,fri,544,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 726",5099,yes
+27768,"28-Oct-22",34,technician,single,professional.course,no,no,no,cellular,mar,fri,301,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 726",5099,yes
+27769,"28-Oct-22",38,technician,married,professional.course,no,yes,no,cellular,mar,fri,207,2,7,1,success,-1.8,"92 843",-50.0,"1 726",5099,yes
+27770,"28-Oct-22",32,management,single,university.degree,no,yes,no,cellular,mar,mon,116,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 703",5099,yes
+27771,"28-Oct-22",41,technician,single,professional.course,no,yes,no,cellular,mar,mon,101,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 703",5099,no
+27772,"28-Oct-22",37,admin.,single,university.degree,no,yes,yes,cellular,mar,mon,161,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 703",5099,no
+27773,"28-Oct-22",55,technician,single,professional.course,no,yes,yes,cellular,mar,mon,217,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 703",5099,yes
+27774,"28-Oct-22",32,management,single,university.degree,no,yes,no,cellular,mar,mon,78,2,999,1,failure,-1.8,"92 843",-50.0,"1 703",5099,no
+27775,"28-Oct-22",67,retired,single,university.degree,no,yes,yes,cellular,mar,mon,70,22,999,0,nonexistent,-1.8,"92 843",-50.0,"1 703",5099,no
+27776,"28-Oct-22",32,management,single,university.degree,no,yes,no,cellular,mar,mon,75,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 703",5099,no
+27777,"28-Oct-22",32,management,single,university.degree,no,no,no,cellular,mar,mon,93,2,999,1,failure,-1.8,"92 843",-50.0,"1 703",5099,no
+27778,"28-Oct-22",32,management,single,university.degree,no,yes,yes,cellular,mar,tue,97,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27779,"28-Oct-22",38,technician,married,university.degree,no,no,no,cellular,mar,tue,350,2,999,2,failure,-1.8,"92 843",-50.0,"1 687",5099,yes
+27780,"28-Oct-22",32,management,single,university.degree,no,yes,no,cellular,mar,tue,164,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27781,"28-Oct-22",73,retired,married,university.degree,no,yes,no,cellular,mar,tue,179,1,999,1,failure,-1.8,"92 843",-50.0,"1 687",5099,no
+27782,"28-Oct-22",32,management,single,university.degree,no,yes,no,cellular,mar,tue,106,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,yes
+27783,"28-Oct-22",31,blue-collar,single,high.school,no,yes,no,cellular,mar,tue,272,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,yes
+27784,"28-Oct-22",33,technician,married,university.degree,no,yes,no,cellular,mar,tue,56,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27785,"28-Oct-22",32,management,single,university.degree,no,yes,no,cellular,mar,tue,71,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,yes
+27786,"28-Oct-22",39,admin.,single,high.school,no,yes,no,cellular,mar,tue,100,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27787,"28-Oct-22",39,admin.,single,high.school,no,no,no,cellular,mar,tue,119,5,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27788,"28-Oct-22",38,technician,married,university.degree,no,yes,no,cellular,mar,tue,122,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,yes
+27789,"28-Oct-22",38,technician,married,university.degree,no,no,no,cellular,mar,tue,59,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27790,"28-Oct-22",39,admin.,single,high.school,no,yes,no,cellular,mar,tue,395,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,yes
+27791,"28-Oct-22",38,technician,married,university.degree,no,no,no,cellular,mar,tue,261,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,yes
+27792,"28-Oct-22",38,technician,married,university.degree,no,yes,yes,cellular,mar,tue,113,1,999,1,failure,-1.8,"92 843",-50.0,"1 687",5099,no
+27793,"28-Oct-22",18,student,single,high.school,no,yes,yes,cellular,mar,tue,103,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27794,"28-Oct-22",32,management,single,university.degree,no,yes,no,cellular,mar,tue,59,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27795,"28-Oct-22",39,blue-collar,single,basic.4y,no,yes,no,telephone,mar,tue,137,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27796,"28-Oct-22",37,admin.,married,university.degree,no,yes,yes,cellular,mar,tue,159,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,yes
+27797,"28-Oct-22",30,student,single,basic.4y,no,yes,yes,cellular,mar,tue,70,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27798,"28-Oct-22",32,management,single,university.degree,no,yes,no,cellular,mar,tue,427,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,yes
+27799,"28-Oct-22",32,management,single,university.degree,no,yes,no,telephone,mar,tue,230,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 687",5099,no
+27800,"28-Oct-22",29,self-employed,married,university.degree,no,yes,no,cellular,mar,wed,60,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,no
+27801,"28-Oct-22",88,retired,divorced,basic.4y,no,yes,no,cellular,mar,wed,48,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,no
+27802,"28-Oct-22",29,self-employed,married,university.degree,no,no,no,cellular,mar,wed,74,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,no
+27803,"28-Oct-22",88,retired,divorced,basic.4y,no,no,no,cellular,mar,wed,266,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,yes
+27804,"28-Oct-22",29,self-employed,married,university.degree,no,yes,no,cellular,mar,wed,95,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,yes
+27805,"28-Oct-22",29,self-employed,married,university.degree,no,yes,yes,cellular,mar,wed,231,1,999,1,failure,-1.8,"92 843",-50.0,"1 663",5099,no
+27806,"28-Oct-22",88,retired,divorced,basic.4y,no,yes,yes,cellular,mar,wed,796,5,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,yes
+27807,"28-Oct-22",29,self-employed,married,university.degree,no,no,no,cellular,mar,wed,101,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,no
+27808,"28-Oct-22",29,self-employed,married,university.degree,no,no,no,cellular,mar,wed,197,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,yes
+27809,"28-Oct-22",88,retired,divorced,basic.4y,no,yes,no,cellular,mar,wed,96,6,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,no
+27810,"28-Oct-22",60,retired,married,professional.course,no,yes,no,cellular,mar,wed,74,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,no
+27811,"28-Oct-22",88,retired,divorced,basic.4y,no,yes,no,cellular,mar,wed,126,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,yes
+27812,"28-Oct-22",88,retired,divorced,basic.4y,no,no,no,cellular,mar,wed,323,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,yes
+27813,"28-Oct-22",88,retired,divorced,basic.4y,no,yes,no,cellular,mar,wed,85,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,no
+27814,"28-Oct-22",88,retired,divorced,basic.4y,no,yes,no,cellular,mar,wed,101,7,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,yes
+27815,"28-Oct-22",88,retired,divorced,basic.4y,no,yes,yes,cellular,mar,wed,103,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,no
+27816,"28-Oct-22",88,retired,divorced,basic.4y,no,yes,yes,cellular,mar,wed,82,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,no
+27817,"28-Oct-22",88,retired,divorced,basic.4y,no,yes,no,cellular,mar,wed,188,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,yes
+27818,"28-Oct-22",88,retired,divorced,basic.4y,no,no,no,cellular,mar,wed,203,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,yes
+27819,"28-Oct-22",88,retired,divorced,basic.4y,no,yes,no,cellular,mar,wed,101,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 663",5099,yes
+27820,"28-Oct-22",33,admin.,married,university.degree,no,no,no,cellular,mar,thu,56,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.65",5099,no
+27821,"28-Oct-22",33,admin.,married,university.degree,no,yes,no,cellular,mar,thu,71,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1.65",5099,no
+27822,"28-Oct-22",27,student,single,high.school,no,yes,no,cellular,mar,thu,80,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1.65",5099,yes
+27823,"28-Oct-22",26,management,single,university.degree,no,yes,no,cellular,mar,thu,119,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.65",5099,yes
+27824,"28-Oct-22",66,retired,married,basic.4y,no,yes,no,cellular,mar,thu,156,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.65",5099,yes
+27825,"28-Oct-22",29,technician,married,professional.course,no,no,no,cellular,mar,thu,186,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.65",5099,yes
+27826,"28-Oct-22",26,management,single,university.degree,no,no,no,cellular,mar,thu,139,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.65",5099,yes
+27827,"28-Oct-22",95,retired,divorced,basic.6y,no,no,no,cellular,mar,thu,85,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.65",5099,no
+27828,"28-Oct-22",19,student,single,basic.9y,no,yes,no,cellular,mar,fri,126,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1.64",5099,yes
+27829,"28-Oct-22",28,self-employed,single,university.degree,no,yes,no,cellular,mar,fri,186,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.64",5099,no
+27830,"28-Oct-22",32,student,single,university.degree,no,no,no,cellular,mar,fri,61,11,999,0,nonexistent,-1.8,"92 843",-50.0,"1.64",5099,no
+27831,"28-Oct-22",28,self-employed,single,university.degree,no,yes,no,cellular,mar,fri,41,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.64",5099,no
+27832,"28-Oct-22",28,self-employed,single,university.degree,no,no,no,cellular,mar,fri,114,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.64",5099,no
+27833,"28-Oct-22",30,student,single,high.school,no,no,no,cellular,mar,fri,268,5,10,2,failure,-1.8,"92 843",-50.0,"1.64",5099,yes
+27834,"28-Oct-22",28,self-employed,single,university.degree,no,yes,yes,cellular,mar,fri,3076,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.64",5099,yes
+27835,"28-Oct-22",37,unemployed,single,university.degree,no,yes,no,cellular,mar,fri,432,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.64",5099,no
+27836,"28-Oct-22",50,unemployed,unknown,university.degree,no,no,no,cellular,mar,fri,166,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.64",5099,no
+27837,"28-Oct-22",28,self-employed,single,university.degree,no,no,no,cellular,mar,fri,296,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.64",5099,yes
+27838,"28-Oct-22",70,retired,married,basic.4y,no,yes,no,cellular,mar,mon,61,6,999,1,failure,-1.8,"92 843",-50.0,"1 629",5099,no
+27839,"28-Oct-22",70,retired,married,basic.4y,no,no,no,cellular,mar,mon,422,3,999,1,failure,-1.8,"92 843",-50.0,"1 629",5099,no
+27840,"28-Oct-22",34,technician,married,professional.course,no,no,no,telephone,mar,mon,80,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 629",5099,no
+27841,"28-Oct-22",30,admin.,married,university.degree,no,unknown,unknown,cellular,mar,mon,291,3,8,1,success,-1.8,"92 843",-50.0,"1 629",5099,no
+27842,"28-Oct-22",56,retired,married,university.degree,no,yes,yes,cellular,mar,mon,104,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 629",5099,no
+27843,"28-Oct-22",34,technician,married,professional.course,no,yes,no,cellular,mar,mon,93,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 629",5099,no
+27844,"28-Oct-22",34,technician,married,professional.course,no,yes,yes,telephone,mar,mon,44,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 629",5099,no
+27845,"28-Oct-22",70,retired,married,basic.4y,no,yes,no,telephone,mar,mon,147,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 629",5099,no
+27846,"28-Oct-22",34,technician,married,professional.course,no,no,no,cellular,mar,mon,83,13,999,0,nonexistent,-1.8,"92 843",-50.0,"1 629",5099,no
+27847,"28-Oct-22",28,technician,single,university.degree,no,no,no,cellular,mar,mon,392,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 629",5099,yes
+27848,"28-Oct-22",50,admin.,divorced,university.degree,no,yes,no,cellular,mar,tue,74,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,no
+27849,"28-Oct-22",46,technician,married,professional.course,no,no,no,cellular,mar,tue,163,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,no
+27850,"28-Oct-22",33,admin.,single,university.degree,no,no,no,cellular,mar,tue,406,2,999,1,failure,-1.8,"92 843",-50.0,"1 614",5099,yes
+27851,"28-Oct-22",21,student,single,high.school,no,no,no,cellular,mar,tue,220,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,yes
+27852,"28-Oct-22",77,retired,divorced,unknown,no,yes,no,cellular,mar,tue,178,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,yes
+27853,"28-Oct-22",37,unemployed,married,university.degree,no,yes,no,cellular,mar,tue,195,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,yes
+27854,"28-Oct-22",33,admin.,single,university.degree,no,yes,yes,cellular,mar,tue,187,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,yes
+27855,"28-Oct-22",33,technician,single,university.degree,no,yes,no,cellular,mar,tue,325,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,no
+27856,"28-Oct-22",29,technician,single,professional.course,no,no,no,cellular,mar,tue,299,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,yes
+27857,"28-Oct-22",34,admin.,single,university.degree,no,no,no,cellular,mar,tue,325,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,yes
+27858,"28-Oct-22",32,admin.,single,professional.course,no,yes,no,cellular,mar,tue,159,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,no
+27859,"28-Oct-22",32,admin.,single,professional.course,no,yes,yes,cellular,mar,tue,81,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,no
+27860,"28-Oct-22",50,admin.,divorced,university.degree,no,yes,no,cellular,mar,tue,136,19,999,0,nonexistent,-1.8,"92 843",-50.0,"1 614",5099,no
+27861,"28-Oct-22",26,student,single,high.school,no,no,no,cellular,mar,wed,236,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 602",5099,no
+27862,"28-Oct-22",33,blue-collar,single,high.school,no,yes,no,cellular,mar,wed,140,10,999,0,nonexistent,-1.8,"92 843",-50.0,"1 602",5099,no
+27863,"28-Oct-22",33,blue-collar,single,high.school,no,no,no,cellular,mar,wed,278,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 602",5099,yes
+27864,"28-Oct-22",60,management,single,university.degree,no,yes,yes,cellular,mar,wed,194,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 602",5099,yes
+27865,"28-Oct-22",24,admin.,single,high.school,no,yes,yes,cellular,mar,wed,224,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 602",5099,yes
+27866,"28-Oct-22",33,blue-collar,single,high.school,no,yes,no,cellular,mar,wed,163,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 602",5099,no
+27867,"28-Oct-22",68,retired,married,university.degree,no,no,no,cellular,mar,wed,201,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 602",5099,yes
+27868,"28-Oct-22",33,blue-collar,single,high.school,no,yes,no,cellular,mar,wed,203,4,999,1,failure,-1.8,"92 843",-50.0,"1 602",5099,yes
+27869,"28-Oct-22",32,management,single,university.degree,no,no,yes,cellular,mar,thu,167,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 584",5099,yes
+27870,"28-Oct-22",24,admin.,single,high.school,no,no,yes,cellular,mar,thu,181,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 584",5099,no
+27871,"28-Oct-22",36,admin.,married,high.school,no,yes,no,cellular,mar,thu,220,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 584",5099,yes
+27872,"28-Oct-22",24,management,married,unknown,no,no,no,cellular,mar,fri,93,5,999,0,nonexistent,-1.8,"92 843",-50.0,"1 574",5099,no
+27873,"28-Oct-22",54,admin.,married,university.degree,no,no,no,cellular,mar,mon,47,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.56",5099,no
+27874,"28-Oct-22",31,admin.,divorced,university.degree,no,no,no,cellular,mar,mon,248,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1.56",5099,yes
+27875,"28-Oct-22",54,admin.,married,university.degree,no,yes,no,cellular,mar,mon,415,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.56",5099,yes
+27876,"28-Oct-22",75,retired,divorced,basic.9y,no,no,no,cellular,mar,mon,233,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.56",5099,no
+27877,"28-Oct-22",54,admin.,married,university.degree,no,yes,no,cellular,mar,mon,115,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.56",5099,yes
+27878,"28-Oct-22",27,unemployed,single,university.degree,no,yes,no,cellular,mar,mon,269,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.56",5099,no
+27879,"28-Oct-22",31,admin.,divorced,university.degree,no,yes,yes,cellular,mar,mon,174,2,999,1,failure,-1.8,"92 843",-50.0,"1.56",5099,yes
+27880,"28-Oct-22",70,admin.,divorced,university.degree,no,no,no,cellular,mar,mon,83,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1.56",5099,no
+27881,"28-Oct-22",19,student,single,basic.6y,no,no,no,cellular,mar,tue,136,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,yes
+27882,"28-Oct-22",35,blue-collar,single,professional.course,no,yes,no,cellular,mar,tue,81,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,no
+27883,"28-Oct-22",29,blue-collar,married,basic.4y,no,yes,yes,cellular,mar,tue,74,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,no
+27884,"28-Oct-22",32,technician,divorced,professional.course,no,yes,yes,cellular,mar,tue,460,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,yes
+27885,"28-Oct-22",32,technician,divorced,professional.course,no,no,no,cellular,mar,tue,115,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,no
+27886,"28-Oct-22",28,technician,single,professional.course,no,yes,no,telephone,mar,tue,58,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,no
+27887,"28-Oct-22",29,blue-collar,single,basic.9y,no,yes,no,cellular,mar,tue,116,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,no
+27888,"28-Oct-22",61,retired,married,basic.9y,no,no,yes,cellular,mar,tue,125,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,no
+27889,"28-Oct-22",32,technician,divorced,professional.course,no,yes,no,cellular,mar,tue,144,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,yes
+27890,"28-Oct-22",29,blue-collar,single,basic.9y,no,yes,no,cellular,mar,tue,152,13,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,no
+27891,"28-Oct-22",31,admin.,married,university.degree,no,yes,no,cellular,mar,tue,170,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,yes
+27892,"28-Oct-22",46,admin.,married,university.degree,no,no,no,cellular,mar,tue,269,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 556",5099,yes
+27893,"28-Oct-22",50,management,married,basic.9y,no,no,no,cellular,mar,wed,115,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 548",5099,yes
+27894,"28-Oct-22",28,admin.,single,university.degree,no,no,no,cellular,mar,wed,506,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 548",5099,yes
+27895,"28-Oct-22",63,retired,divorced,basic.4y,no,no,no,cellular,mar,wed,78,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 548",5099,no
+27896,"28-Oct-22",28,admin.,single,university.degree,no,no,yes,cellular,mar,wed,96,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 548",5099,yes
+27897,"28-Oct-22",33,admin.,married,university.degree,no,yes,no,cellular,mar,wed,278,8,999,0,nonexistent,-1.8,"92 843",-50.0,"1 548",5099,yes
+27898,"28-Oct-22",28,admin.,single,university.degree,no,no,no,cellular,mar,wed,411,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 548",5099,yes
+27899,"28-Oct-22",35,admin.,married,high.school,no,yes,no,cellular,mar,thu,117,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,yes
+27900,"28-Oct-22",36,management,married,university.degree,no,no,no,cellular,mar,thu,709,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,yes
+27901,"28-Oct-22",36,management,married,university.degree,no,yes,no,cellular,mar,thu,141,1,999,1,failure,-1.8,"92 843",-50.0,"1 538",5099,no
+27902,"28-Oct-22",26,student,single,high.school,no,no,no,cellular,mar,thu,200,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,yes
+27903,"28-Oct-22",70,housemaid,married,basic.4y,no,no,no,cellular,mar,thu,91,1,999,1,failure,-1.8,"92 843",-50.0,"1 538",5099,no
+27904,"28-Oct-22",45,technician,single,professional.course,no,yes,yes,cellular,mar,thu,143,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,no
+27905,"28-Oct-22",20,student,single,basic.9y,no,yes,no,cellular,mar,thu,325,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,yes
+27906,"28-Oct-22",36,management,married,university.degree,no,yes,yes,cellular,mar,thu,94,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,no
+27907,"28-Oct-22",28,admin.,single,high.school,no,yes,no,cellular,mar,thu,131,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,no
+27908,"28-Oct-22",20,student,single,basic.9y,no,yes,no,cellular,mar,thu,267,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,no
+27909,"28-Oct-22",36,management,married,university.degree,no,yes,no,cellular,mar,thu,86,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,no
+27910,"28-Oct-22",37,blue-collar,married,basic.6y,no,yes,yes,cellular,mar,thu,73,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,no
+27911,"28-Oct-22",58,unemployed,married,basic.4y,unknown,yes,no,cellular,mar,thu,439,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,no
+27912,"28-Oct-22",68,retired,married,basic.4y,no,no,no,cellular,mar,thu,331,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,yes
+27913,"28-Oct-22",51,technician,married,university.degree,no,yes,no,cellular,mar,thu,278,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,no
+27914,"28-Oct-22",28,admin.,single,high.school,no,yes,no,cellular,mar,thu,181,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,no
+27915,"28-Oct-22",22,student,single,basic.9y,no,yes,no,cellular,mar,thu,173,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 538",5099,no
+27916,"28-Oct-22",27,housemaid,married,high.school,no,yes,no,cellular,mar,fri,101,12,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27917,"28-Oct-22",36,unemployed,married,university.degree,unknown,unknown,unknown,cellular,mar,fri,95,2,999,1,failure,-1.8,"92 843",-50.0,"1 531",5099,yes
+27918,"28-Oct-22",28,admin.,single,high.school,no,yes,no,telephone,mar,fri,515,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27919,"28-Oct-22",28,admin.,single,high.school,no,yes,no,cellular,mar,fri,300,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27920,"28-Oct-22",28,admin.,single,high.school,no,yes,no,cellular,mar,fri,342,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27921,"28-Oct-22",28,self-employed,single,university.degree,no,yes,no,telephone,mar,fri,124,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27922,"28-Oct-22",56,blue-collar,married,basic.4y,no,yes,no,cellular,mar,fri,283,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27923,"28-Oct-22",28,admin.,single,high.school,no,yes,no,cellular,mar,fri,78,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27924,"28-Oct-22",41,technician,married,professional.course,no,no,no,cellular,mar,fri,229,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27925,"28-Oct-22",28,admin.,single,high.school,no,yes,no,cellular,mar,fri,102,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27926,"28-Oct-22",25,admin.,married,university.degree,no,yes,no,cellular,mar,fri,294,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27927,"28-Oct-22",25,admin.,married,university.degree,no,no,no,cellular,mar,fri,184,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27928,"28-Oct-22",25,admin.,married,university.degree,no,yes,no,cellular,mar,fri,277,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27929,"28-Oct-22",30,blue-collar,single,university.degree,no,no,no,cellular,mar,fri,166,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27930,"28-Oct-22",28,admin.,single,high.school,no,no,yes,cellular,mar,fri,77,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27931,"28-Oct-22",73,retired,married,university.degree,no,yes,no,cellular,mar,fri,179,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27932,"28-Oct-22",43,admin.,married,university.degree,no,yes,no,cellular,mar,fri,689,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27933,"28-Oct-22",31,technician,single,university.degree,no,yes,no,telephone,mar,fri,228,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27934,"28-Oct-22",66,retired,married,unknown,no,yes,no,telephone,mar,fri,64,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27935,"28-Oct-22",27,housemaid,married,high.school,no,yes,no,cellular,mar,fri,378,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27936,"28-Oct-22",36,self-employed,married,university.degree,no,yes,no,cellular,mar,fri,101,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27937,"28-Oct-22",60,admin.,married,university.degree,no,yes,no,cellular,mar,fri,558,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27938,"28-Oct-22",25,admin.,married,university.degree,no,no,no,cellular,mar,fri,243,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27939,"28-Oct-22",43,admin.,married,university.degree,no,yes,no,cellular,mar,fri,111,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27940,"28-Oct-22",28,admin.,single,high.school,no,no,no,cellular,mar,fri,144,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27941,"28-Oct-22",30,blue-collar,single,university.degree,no,yes,yes,cellular,mar,fri,166,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,no
+27942,"28-Oct-22",28,admin.,single,high.school,no,no,no,telephone,mar,fri,234,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27943,"28-Oct-22",32,admin.,single,university.degree,no,yes,no,cellular,mar,fri,271,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27944,"28-Oct-22",28,admin.,single,high.school,no,no,no,cellular,mar,fri,347,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1 531",5099,yes
+27945,"28-Oct-22",32,admin.,single,university.degree,no,unknown,unknown,cellular,mar,mon,77,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27946,"28-Oct-22",34,technician,single,university.degree,no,no,no,cellular,mar,mon,180,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,yes
+27947,"28-Oct-22",32,admin.,single,university.degree,no,unknown,unknown,cellular,mar,mon,136,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27948,"28-Oct-22",34,technician,single,university.degree,no,yes,no,cellular,mar,mon,253,2,999,1,failure,-1.8,"92 843",-50.0,"1.52",5099,no
+27949,"28-Oct-22",34,technician,single,university.degree,no,yes,no,cellular,mar,mon,171,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27950,"28-Oct-22",32,admin.,single,university.degree,no,yes,yes,cellular,mar,mon,96,6,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27951,"28-Oct-22",80,retired,married,basic.4y,unknown,yes,no,cellular,mar,mon,415,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27952,"28-Oct-22",80,retired,married,basic.4y,unknown,no,no,cellular,mar,mon,95,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27953,"28-Oct-22",32,admin.,single,university.degree,no,yes,no,cellular,mar,mon,285,8,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,yes
+27954,"28-Oct-22",32,admin.,single,university.degree,no,yes,no,cellular,mar,mon,364,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,yes
+27955,"28-Oct-22",21,student,single,basic.4y,no,no,no,cellular,mar,mon,114,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27956,"28-Oct-22",32,admin.,married,university.degree,no,yes,no,cellular,mar,mon,517,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,yes
+27957,"28-Oct-22",32,admin.,single,university.degree,no,yes,no,cellular,mar,mon,167,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27958,"28-Oct-22",32,admin.,married,university.degree,no,yes,yes,cellular,mar,mon,78,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27959,"28-Oct-22",62,admin.,married,high.school,no,no,no,telephone,mar,mon,163,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,yes
+27960,"28-Oct-22",32,admin.,single,university.degree,no,no,no,cellular,mar,mon,52,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27961,"28-Oct-22",34,technician,single,university.degree,no,no,no,cellular,mar,mon,138,8,999,0,nonexistent,-1.8,"92 843",-50.0,"1.52",5099,no
+27962,"28-Oct-22",59,blue-collar,married,basic.4y,no,yes,yes,cellular,mar,tue,684,4,999,0,nonexistent,-1.8,"92 843",-50.0,"1.51",5099,no
+27963,"28-Oct-22",59,blue-collar,married,basic.4y,no,no,no,cellular,mar,tue,237,3,999,0,nonexistent,-1.8,"92 843",-50.0,"1.51",5099,yes
+27964,"28-Oct-22",80,management,divorced,professional.course,unknown,yes,no,cellular,mar,tue,158,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.51",5099,yes
+27965,"28-Oct-22",33,blue-collar,married,high.school,unknown,yes,no,cellular,mar,tue,494,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.51",5099,no
+27966,"28-Oct-22",39,admin.,married,high.school,unknown,yes,yes,cellular,mar,tue,210,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.51",5099,no
+27967,"28-Oct-22",39,admin.,married,high.school,unknown,yes,no,cellular,mar,tue,310,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.51",5099,no
+27968,"28-Oct-22",39,admin.,married,high.school,unknown,yes,no,cellular,mar,tue,265,1,999,1,failure,-1.8,"92 843",-50.0,"1.51",5099,no
+27969,"28-Oct-22",45,blue-collar,married,basic.9y,no,yes,no,cellular,mar,tue,257,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.51",5099,no
+27970,"28-Oct-22",45,blue-collar,married,basic.9y,no,yes,no,cellular,mar,tue,829,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.51",5099,no
+27971,"28-Oct-22",44,blue-collar,single,basic.4y,no,yes,no,cellular,mar,tue,1530,2,999,0,nonexistent,-1.8,"92 843",-50.0,"1.51",5099,yes
+27972,"28-Oct-22",48,admin.,single,university.degree,no,yes,no,cellular,mar,tue,544,1,999,0,nonexistent,-1.8,"92 843",-50.0,"1.51",5099,no
+27973,"28-Oct-22",38,services,married,high.school,no,yes,no,cellular,apr,wed,484,2,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27974,"28-Oct-22",33,blue-collar,married,basic.6y,no,yes,no,cellular,apr,wed,351,3,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,yes
+27975,"28-Oct-22",43,self-employed,married,high.school,unknown,yes,no,cellular,apr,wed,345,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27976,"28-Oct-22",31,technician,married,professional.course,no,yes,no,cellular,apr,wed,131,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27977,"28-Oct-22",43,self-employed,married,high.school,unknown,no,no,cellular,apr,wed,743,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27978,"28-Oct-22",34,blue-collar,single,basic.9y,no,no,no,cellular,apr,wed,394,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27979,"28-Oct-22",29,admin.,married,university.degree,no,yes,no,cellular,apr,wed,73,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27980,"28-Oct-22",56,entrepreneur,divorced,university.degree,no,no,no,cellular,apr,wed,202,2,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27981,"28-Oct-22",30,services,single,high.school,no,yes,no,cellular,apr,wed,247,2,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27982,"28-Oct-22",33,blue-collar,married,professional.course,no,yes,yes,cellular,apr,wed,154,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27983,"28-Oct-22",39,admin.,married,high.school,no,yes,no,cellular,apr,wed,110,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27984,"28-Oct-22",49,admin.,married,basic.6y,no,yes,no,cellular,apr,wed,805,2,999,1,failure,-1.8,"93 075",-47.1,"1 498",5099,yes
+27985,"28-Oct-22",33,management,single,university.degree,no,yes,yes,cellular,apr,wed,427,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27986,"28-Oct-22",33,management,single,university.degree,no,yes,no,cellular,apr,wed,212,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27987,"28-Oct-22",40,blue-collar,single,basic.9y,no,no,no,cellular,apr,wed,274,1,999,1,failure,-1.8,"93 075",-47.1,"1 498",5099,no
+27988,"28-Oct-22",33,management,single,university.degree,no,yes,yes,cellular,apr,wed,1176,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,yes
+27989,"28-Oct-22",33,blue-collar,married,basic.6y,no,yes,no,cellular,apr,wed,165,2,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,yes
+27990,"28-Oct-22",46,retired,married,basic.6y,unknown,yes,no,cellular,apr,wed,525,2,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27991,"28-Oct-22",29,admin.,single,university.degree,no,no,no,cellular,apr,wed,479,1,999,1,failure,-1.8,"93 075",-47.1,"1 498",5099,no
+27992,"28-Oct-22",29,admin.,single,university.degree,no,yes,no,cellular,apr,wed,513,1,5,2,success,-1.8,"93 075",-47.1,"1 498",5099,no
+27993,"28-Oct-22",29,admin.,single,university.degree,no,no,no,cellular,apr,wed,295,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27994,"28-Oct-22",29,admin.,single,university.degree,no,no,yes,cellular,apr,wed,117,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27995,"28-Oct-22",63,retired,married,professional.course,no,yes,no,cellular,apr,wed,387,2,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,yes
+27996,"28-Oct-22",39,admin.,married,high.school,no,yes,no,cellular,apr,wed,286,2,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27997,"28-Oct-22",32,blue-collar,married,basic.9y,no,no,no,cellular,apr,wed,161,2,999,1,failure,-1.8,"93 075",-47.1,"1 498",5099,no
+27998,"28-Oct-22",27,entrepreneur,married,professional.course,no,unknown,unknown,cellular,apr,wed,297,1,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+27999,"28-Oct-22",38,admin.,divorced,university.degree,no,yes,no,cellular,apr,wed,498,3,999,0,nonexistent,-1.8,"93 075",-47.1,"1 498",5099,no
+28000,"28-Oct-22",44,admin.,married,unknown,no,no,no,cellular,apr,wed,251,4,999,1,failure,-1.8,"93 075",-47.1,"1 498",5099,no
